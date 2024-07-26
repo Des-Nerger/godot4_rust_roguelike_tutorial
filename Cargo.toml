@@ -1,0 +1,15 @@
+[workspace]
+members = ["*"]
+exclude = ["target", ".git"]
+resolver = "2"
+
+[profile.release]
+strip = true
+
+[profile.dev]
+opt-level = 1
+debug = true
+
+[profile.dev.package."*"]
+opt-level = 3
+debug = false
