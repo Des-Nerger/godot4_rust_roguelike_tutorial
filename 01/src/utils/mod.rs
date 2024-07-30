@@ -1,7 +1,5 @@
 pub mod grid;
 
-use godot::builtin::Vector2i;
-
 #[macro_export]
 macro_rules! nameof {
 	($struсt: ident . $field: ident) => {{
@@ -29,14 +27,4 @@ macro_rules! init_onReadies {
 			$o.$onReady.init($onReady);
 		)+
 	};
-}
-
-pub trait Vector2i_Ext {
-	fn from_array(a: [i32; 2]) -> Self;
-}
-
-impl Vector2i_Ext for Vector2i {
-	fn from_array(a: [i32; 2]) -> Self {
-		Self::new(a[0], a[1])
-	}
 }

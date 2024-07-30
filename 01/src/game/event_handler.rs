@@ -1,5 +1,5 @@
 use {
-	crate::{entities::actors::actions::Action, utils::Vector2i_Ext},
+	crate::entities::actors::actions::Action,
 	godot::{
 		classes::{INode, Input},
 		prelude::*,

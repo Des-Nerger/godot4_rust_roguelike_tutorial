@@ -35,7 +35,7 @@ impl INode2D for Game {
 		match o.eventHandler.bind().get_action() {
 			Some(Action::Movement { offset }) => {
 				o.playerGridPos += offset;
-				o.player.set_position(Vector2::from_vector2i(o.playerGridPos.grid_to_world()));
+				o.player.set_position(o.playerGridPos.grid_to_world().cast_float());
 			}
 			Some(Action::Escape) => o.base().get_tree().unwrap().quit(),
 			None => {}
