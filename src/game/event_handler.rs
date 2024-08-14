@@ -28,18 +28,24 @@ impl EventHandler {
 		if o.input.is_action_just_pressed(c"ui_cancel".into()) {
 			return Some(Action::Escape);
 		}
-		Some(Action::Movement {
-			offset: Vector2i::from_array(if o.input.is_action_just_pressed(c"ui_up".into()) {
-				[0, -1]
-			} else if o.input.is_action_just_pressed(c"ui_down".into()) {
-				[0, 1]
-			} else if o.input.is_action_just_pressed(c"ui_left".into()) {
-				[-1, 0]
+		match Vector2i::new(
+			if o.input.is_action_just_pressed(c"ui_left".into()) {
+				-1
 			} else if o.input.is_action_just_pressed(c"ui_right".into()) {
-				[1, 0]
+				1
 			} else {
-				return None;
-			}),
-		})
+				0
+			},
+			if o.input.is_action_just_pressed(c"ui_up".into()) {
+				-1
+			} else if o.input.is_action_just_pressed(c"ui_down".into()) {
+				1
+			} else {
+				0
+			},
+		) {
+			Vector2i::ZERO => None,
+			offset => Some(Action::Movement { offset }),
+		}
 	}
 }

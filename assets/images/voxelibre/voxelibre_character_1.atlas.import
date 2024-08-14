@@ -1,0 +1,16 @@
+[remap]
+
+importer="godot4_rust_roguelike_tutorial::utils::libgdx_atlas_importer::editor_import_plugin"
+type="Resource"
+uid="uid://f03pkq74uqes"
+path="res://.godot/imported/voxelibre_character_1.atlas-8a477f387c4564806ad2288e91b6edb6.res"
+
+[deps]
+
+files=["res://assets/images/voxelibre/voxelibre_character_1.sprite_frames.tres"]
+
+source_file="res://assets/images/voxelibre/voxelibre_character_1.atlas"
+dest_files=["res://.godot/imported/voxelibre_character_1.atlas-8a477f387c4564806ad2288e91b6edb6.res", "res://assets/images/voxelibre/voxelibre_character_1.sprite_frames.tres"]
+
+[params]
+

@@ -1,6 +1,10 @@
-# Godot 4+ specific ignores
+# Rust specific
+/Cargo.lock
+/target/*
+
+# Godot 4+ specific
+!/target/.gdignore
 .godot/
 
-# Rust specific ignores
-/target/
-/Cargo.lock
+*.blend?*
+/assets/images/voxelibre/src/renders/*.png

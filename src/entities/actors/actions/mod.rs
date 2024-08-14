@@ -1,4 +1,4 @@
-use godot::builtin::Vector2i;
+use godot::prelude::*;
 
 pub enum Action {
 	Escape,
