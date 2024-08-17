@@ -28,24 +28,37 @@ impl EventHandler {
 		if o.input.is_action_just_pressed(c"ui_cancel".into()) {
 			return Some(Action::Escape);
 		}
-		match Vector2i::new(
-			if o.input.is_action_just_pressed(c"ui_left".into()) {
-				-1
-			} else if o.input.is_action_just_pressed(c"ui_right".into()) {
-				1
-			} else {
-				0
-			},
-			if o.input.is_action_just_pressed(c"ui_up".into()) {
-				-1
-			} else if o.input.is_action_just_pressed(c"ui_down".into()) {
-				1
-			} else {
-				0
-			},
-		) {
-			Vector2i::ZERO => None,
-			offset => Some(Action::Movement { offset }),
-		}
+		Some(Action::Movement {
+			offset: Vector2i::from_array(
+				match [
+					if o.input.is_action_just_pressed(c"ui_left".into()) {
+						-1
+					} else if o.input.is_action_just_pressed(c"ui_right".into()) {
+						1
+					} else {
+						0
+					},
+					if o.input.is_action_just_pressed(c"ui_up".into()) {
+						-1
+					} else if o.input.is_action_just_pressed(c"ui_down".into()) {
+						1
+					} else {
+						0
+					},
+				] {
+					[0, 0] => return None,
+					[1, 0] => [1, -1],
+					[-1, 0] => [-1, 1],
+					[0, 1] => [1, 1],
+					[0, -1] => [-1, -1],
+
+					[1, 1] => [1, 0],
+					[1, -1] => [0, -1],
+					[-1, 1] => [0, 1],
+					[-1, -1] => [-1, 0],
+					others => others,
+				},
+			),
+		})
 	}
 }

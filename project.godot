@@ -12,7 +12,7 @@ config_version=5
 
 config/name="godot4_rust_roguelike_tutorial"
 run/main_scene="res://src/game/mod.tscn"
-config/features=PackedStringArray("4.2", "GL Compatibility")
+config/features=PackedStringArray("4.3", "GL Compatibility")
 config/icon="res://icon.svg"
 
 [display]

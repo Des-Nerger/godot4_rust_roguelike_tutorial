@@ -1,7 +1,9 @@
 mod event_handler;
 
 use {
-	crate::{entities::actors::actions::Action, game::event_handler::EventHandler, utils::grid::Vector2i_Ext},
+	crate::{
+		entities::actors::actions::Action, game::event_handler::EventHandler, utils::grid::Vector2i_Ext as _,
+	},
 	godot::{
 		classes::{AnimatedSprite2D, INode2D},
 		prelude::*,
