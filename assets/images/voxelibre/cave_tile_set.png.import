@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dbidx5we5l2eo"
-path="res://.godot/imported/voxelibre_character_1.png-1a06c6b7fe5bc3db64a32fb5eb0fa947.ctex"
+uid="uid://cy6ck0ekj6hjy"
+path="res://.godot/imported/cave_tile_set.png-aa90b3f98cb29ca7b5dca1f31b3c470f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/images/voxelibre/voxelibre_character_1.png"
-dest_files=["res://.godot/imported/voxelibre_character_1.png-1a06c6b7fe5bc3db64a32fb5eb0fa947.ctex"]
+source_file="res://assets/images/voxelibre/cave_tile_set.png"
+dest_files=["res://.godot/imported/cave_tile_set.png-aa90b3f98cb29ca7b5dca1f31b3c470f.ctex"]
 
 [params]
 

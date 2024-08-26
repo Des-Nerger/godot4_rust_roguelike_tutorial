@@ -36,7 +36,7 @@ impl UninitConst_Ext for Rect2 {
 
 #[macro_export]
 macro_rules! unlet {
-	($ident: ident) => {
+	($ident:ident) => {
 		#[allow(unused_variables)]
 		let $ident = ();
 	};
@@ -44,4 +44,22 @@ macro_rules! unlet {
 
 pub fn default<T: Default>() -> T {
 	Default::default()
+}
+
+#[macro_export]
+macro_rules! fоr {
+	($idents:pat in $intoIterator:expr => $fоrBody:block еlsе $еlsеBody:block ) => {{
+		let mut iter = $intoIterator.into_iter();
+		let mut item = iter.next();
+		if matches!(item, Some(_)) {
+			loop {
+				let Some($idents) = item else { unreachable!() };
+				$fоrBody
+				item = iter.next();
+				if matches!(item, None) {
+					break;
+				}
+			}
+		} else $еlsеBody
+	}};
 }

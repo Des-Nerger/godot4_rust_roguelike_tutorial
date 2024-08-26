@@ -1,6 +1,7 @@
 [package]
 name = "godot4_rust_roguelike_tutorial"
-version = "0.0.0"
+version = "0.1.4"
+license = "MPL-2.0"
 edition = "2021"
 
 [lib]
@@ -18,14 +19,16 @@ opt-level = 3
 debug = false
 
 [dependencies]
+chrono = "0"
 arrayvec = "0"
 strum = { version = "0", features = ["derive"] }
 # static_assertions = "1"
 
 [dependencies.godot]
-git = "https://github.com/godot-rust/gdext"
-branch = "master"
+git = "https://github.com/Des-Nerger/gdext"
+branch = "feature/renamable-self-param"
 features = [
 	"experimental-godot-api",
 	"experimental-threads",
+	"experimental-renamable-self-param",
 ]

@@ -1,6 +1,6 @@
 use {
 	crate::{
-		unlet,
+		fоr, unlet,
 		utils::{default, TryInto_Ext as _, UninitConst_Ext as _},
 	},
 	arrayvec::ArrayVec,
@@ -16,7 +16,7 @@ use {
 		global::Error,
 		prelude::*,
 	},
-	std::fmt::Write as _,
+	std::{collections::HashMap, fmt::Write as _},
 	strum::{EnumCount, FromRepr, IntoStaticStr},
 };
 
@@ -100,6 +100,7 @@ impl IEditorImportPlugin for GdxAtlasImporter {
 			spriteFrames: Gd<SpriteFrames>,
 			animName: StringName,
 			spriteFrameIdx: i32,
+			maxFrameIndices: HashMap<StringName, i32>,
 		}
 		impl Current {
 			fn new_frame(&mut self, frameName: &str) {
@@ -107,8 +108,13 @@ impl IEditorImportPlugin for GdxAtlasImporter {
 				c.gotFrameName = true;
 				{
 					let (animName, spriteFrameIdx) = frameName.rsplit_once("_").unwrap();
-					c.spriteFrameIdx = spriteFrameIdx.parse().unwrap();
 					c.animName = animName.into();
+					c.spriteFrameIdx = spriteFrameIdx.parse().unwrap();
+					_ = c
+						.maxFrameIndices
+						.entry(c.animName.clone())
+						.and_modify(|maxFrameIdx| *maxFrameIdx = max(*maxFrameIdx, c.spriteFrameIdx))
+						.or_insert(c.spriteFrameIdx);
 				}
 				if !c.spriteFrames.has_animation(c.animName.clone()) {
 					c.spriteFrames.add_animation(c.animName.clone());
@@ -184,6 +190,7 @@ impl IEditorImportPlugin for GdxAtlasImporter {
 			spriteFrames,
 			animName: default(),
 			spriteFrameIdx: i32::MIN,
+			maxFrameIndices: HashMap::new(),
 		};
 
 		let imageTexture_type = GString::from("ImageTexture");
@@ -237,6 +244,24 @@ impl IEditorImportPlugin for GdxAtlasImporter {
 		}
 		assert_eq!(c.gotFrameName, true);
 		c.finish_frame();
+
+		for animName in
+			c.spriteFrames.get_animation_names().as_slice().into_iter().map(|gstring| StringName::from(gstring))
+		{
+			if !c.maxFrameIndices.contains_key(&animName) {
+				c.spriteFrames.remove_animation(animName.clone());
+				godot_print!("removed unused animation \"{animName}\"");
+			}
+		}
+		'outer: for (animName, maxFrameIdx) in c.maxFrameIndices.into_iter() {
+			let frameRange = (maxFrameIdx + 1)..c.spriteFrames.get_frame_count(animName.clone());
+			fоr!(frameIdx in frameRange.clone().rev() => {
+				c.spriteFrames.remove_frame(animName.clone(), frameIdx);
+			} еlsе {
+				continue 'outer;
+			});
+			godot_print!("in animation \"{animName}\": removed unused trailing frames {frameRange:?}");
+		}
 
 		assert_eq!(c.resourceSaver.save_ex(c.spriteFrames).path(spriteFramesTresPath.clone()).done(), Error::OK);
 		godot_print!("{spriteFramesTresPath:?} was updated.");

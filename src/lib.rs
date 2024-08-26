@@ -1,5 +1,12 @@
 #![warn(clippy::pedantic, elided_lifetimes_in_paths, explicit_outlives_requirements)]
-#![allow(non_camel_case_types, non_snake_case, unstable_name_collisions)]
+#![allow(
+	confusable_idents,
+	mixed_script_confusables,
+	non_camel_case_types,
+	non_snake_case,
+	uncommon_codepoints,
+	unstable_name_collisions
+)]
 
 use godot::prelude::*;
 
@@ -9,5 +16,5 @@ struct RoguelikeTutorial;
 unsafe impl ExtensionLibrary for RoguelikeTutorial {}
 
 mod entities;
-mod game;
+pub mod game;
 mod utils;
