@@ -7,4 +7,4 @@
 .godot/
 
 *.blend?*
-/assets/images/voxelibre/src/renders/*.png
+/assets/images/voxelibre/src/*renders/*.png

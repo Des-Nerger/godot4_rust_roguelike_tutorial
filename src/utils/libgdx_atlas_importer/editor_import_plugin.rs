@@ -186,7 +186,7 @@ impl IEditorImportPlugin for GdxAtlasImporter {
 			destTresPaths,
 			resourceSaver: ResourceSaver::singleton(),
 			resourceLoader,
-			imageTexture: Texture2D::new_gd(),
+			imageTexture: Gd::default(),
 			spriteFrames,
 			animName: default(),
 			spriteFrameIdx: i32::MIN,
@@ -205,7 +205,7 @@ impl IEditorImportPlugin for GdxAtlasImporter {
 					.type_hint(imageTexture_type.clone())
 					.done()
 					.unwrap()
-					.cast::<Texture2D>();
+					.cast();
 				continue;
 			}
 			if !c.gotFrameName {

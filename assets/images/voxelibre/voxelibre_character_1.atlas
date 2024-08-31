@@ -1,2523 +1,2523 @@
 voxelibre_character_1.png
 	size: 2048, 2048
 	repeat: none
+stand_00_0000
+	bounds: 933, 1739, 88, 75
+	offsets: 16, 16, 128, 128
+stand_00_0033
+	bounds: 933, 1739, 88, 75
+	offsets: 16, 16, 128, 128
 stand_00_0003
-	bounds: 151, 800, 78, 75
-	offsets: 26, 16, 128, 128
+	bounds: 1203, 1804, 88, 75
+	offsets: 16, 16, 128, 128
 stand_00_0005
-	bounds: 224, 413, 78, 75
-	offsets: 26, 16, 128, 128
+	bounds: 98, 174, 87, 75
+	offsets: 17, 16, 128, 128
 stand_00_0038
-	bounds: 224, 413, 78, 75
-	offsets: 26, 16, 128, 128
+	bounds: 98, 174, 87, 75
+	offsets: 17, 16, 128, 128
 stand_00_0062
-	bounds: 224, 413, 78, 75
-	offsets: 26, 16, 128, 128
+	bounds: 98, 174, 87, 75
+	offsets: 17, 16, 128, 128
 stand_00_0006
-	bounds: 1926, 1970, 78, 76
-	offsets: 26, 16, 128, 128
+	bounds: 1797, 1728, 87, 76
+	offsets: 17, 16, 128, 128
 stand_00_0039
-	bounds: 1926, 1970, 78, 76
-	offsets: 26, 16, 128, 128
+	bounds: 1797, 1728, 87, 76
+	offsets: 17, 16, 128, 128
 stand_00_0061
-	bounds: 1926, 1970, 78, 76
-	offsets: 26, 16, 128, 128
+	bounds: 1797, 1728, 87, 76
+	offsets: 17, 16, 128, 128
 stand_00_0008
-	bounds: 147, 568, 77, 76
-	offsets: 27, 16, 128, 128
+	bounds: 831, 1722, 87, 76
+	offsets: 17, 16, 128, 128
 stand_00_0010
-	bounds: 58, 145, 77, 76
-	offsets: 27, 16, 128, 128
+	bounds: 1706, 1651, 86, 76
+	offsets: 18, 16, 128, 128
 stand_00_0011
-	bounds: 542, 1735, 77, 76
-	offsets: 27, 16, 128, 128
+	bounds: 70, 939, 86, 76
+	offsets: 18, 16, 128, 128
 stand_00_0044
-	bounds: 542, 1735, 77, 76
-	offsets: 27, 16, 128, 128
+	bounds: 70, 939, 86, 76
+	offsets: 18, 16, 128, 128
 stand_00_0056
-	bounds: 542, 1735, 77, 76
-	offsets: 27, 16, 128, 128
+	bounds: 70, 939, 86, 76
+	offsets: 18, 16, 128, 128
 stand_00_0012
-	bounds: 216, 104, 77, 76
-	offsets: 27, 16, 128, 128
+	bounds: 478, 497, 86, 76
+	offsets: 18, 16, 128, 128
 stand_00_0013
-	bounds: 227, 490, 77, 76
-	offsets: 27, 16, 128, 128
+	bounds: 708, 811, 86, 76
+	offsets: 18, 16, 128, 128
 stand_00_0046
-	bounds: 227, 490, 77, 76
-	offsets: 27, 16, 128, 128
+	bounds: 708, 811, 86, 76
+	offsets: 18, 16, 128, 128
 stand_00_0054
-	bounds: 227, 490, 77, 76
-	offsets: 27, 16, 128, 128
+	bounds: 708, 811, 86, 76
+	offsets: 18, 16, 128, 128
 stand_00_0016
-	bounds: 503, 1891, 78, 76
-	offsets: 27, 16, 128, 128
+	bounds: 480, 809, 86, 76
+	offsets: 18, 16, 128, 128
 stand_00_0051
-	bounds: 503, 1891, 78, 76
-	offsets: 27, 16, 128, 128
+	bounds: 480, 809, 86, 76
+	offsets: 18, 16, 128, 128
 stand_00_0018
-	bounds: 141, 1346, 78, 76
-	offsets: 27, 16, 128, 128
+	bounds: 1530, 1651, 86, 76
+	offsets: 18, 16, 128, 128
 stand_00_0019
-	bounds: 264, 1890, 78, 76
-	offsets: 27, 16, 128, 128
+	bounds: 381, 1649, 86, 76
+	offsets: 18, 16, 128, 128
 stand_00_0020
-	bounds: 322, 1812, 78, 76
-	offsets: 27, 16, 128, 128
+	bounds: 479, 575, 86, 76
+	offsets: 18, 16, 128, 128
 stand_00_0021
-	bounds: 221, 952, 77, 76
-	offsets: 27, 16, 128, 128
+	bounds: 696, 889, 86, 76
+	offsets: 18, 16, 128, 128
 stand_00_0022
-	bounds: 214, 26, 77, 76
-	offsets: 27, 16, 128, 128
+	bounds: 649, 405, 86, 76
+	offsets: 18, 16, 128, 128
 stand_00_0023
-	bounds: 56, 67, 77, 76
-	offsets: 27, 16, 128, 128
+	bounds: 1794, 1650, 86, 76
+	offsets: 18, 16, 128, 128
 stand_00_0024
-	bounds: 221, 1030, 77, 76
-	offsets: 27, 16, 128, 128
+	bounds: 292, 1649, 87, 76
+	offsets: 17, 16, 128, 128
 stand_00_0025
-	bounds: 135, 29, 77, 76
-	offsets: 27, 16, 128, 128
+	bounds: 183, 15, 87, 76
+	offsets: 17, 16, 128, 128
 stand_00_0026
-	bounds: 58, 223, 77, 76
-	offsets: 27, 16, 128, 128
+	bounds: 278, 1225, 87, 76
+	offsets: 17, 16, 128, 128
 stand_00_0027
-	bounds: 460, 1813, 78, 76
-	offsets: 26, 16, 128, 128
+	bounds: 367, 1141, 87, 76
+	offsets: 17, 16, 128, 128
 stand_00_0028
-	bounds: 216, 259, 78, 75
-	offsets: 26, 16, 128, 128
+	bounds: 94, 19, 87, 75
+	offsets: 17, 16, 128, 128
 stand_00_0029
-	bounds: 151, 723, 78, 75
-	offsets: 26, 16, 128, 128
+	bounds: 1293, 1803, 88, 75
+	offsets: 16, 16, 128, 128
 stand_00_0030
-	bounds: 216, 182, 78, 75
-	offsets: 26, 16, 128, 128
+	bounds: 1707, 1729, 88, 75
+	offsets: 16, 16, 128, 128
 stand_00_0031
-	bounds: 136, 339, 78, 75
-	offsets: 26, 16, 128, 128
+	bounds: 1113, 1728, 88, 75
+	offsets: 16, 16, 128, 128
 stand_00_0032
-	bounds: 71, 684, 78, 75
-	offsets: 26, 16, 128, 128
+	bounds: 933, 1816, 88, 75
+	offsets: 16, 16, 128, 128
 stand_00_0034
-	bounds: 151, 646, 78, 75
-	offsets: 26, 16, 128, 128
+	bounds: 1440, 1807, 88, 75
+	offsets: 16, 16, 128, 128
 stand_00_0001
-	bounds: 151, 646, 78, 75
-	offsets: 26, 16, 128, 128
+	bounds: 1440, 1807, 88, 75
+	offsets: 16, 16, 128, 128
 stand_00_0036
-	bounds: 216, 336, 78, 75
-	offsets: 26, 16, 128, 128
+	bounds: 1203, 1727, 88, 75
+	offsets: 16, 16, 128, 128
 stand_00_0064
-	bounds: 216, 336, 78, 75
-	offsets: 26, 16, 128, 128
+	bounds: 1203, 1727, 88, 75
+	offsets: 16, 16, 128, 128
 stand_00_0037
-	bounds: 189, 1498, 78, 75
-	offsets: 26, 16, 128, 128
+	bounds: 1113, 1805, 88, 75
+	offsets: 16, 16, 128, 128
 stand_00_0004
-	bounds: 189, 1498, 78, 75
-	offsets: 26, 16, 128, 128
+	bounds: 1113, 1805, 88, 75
+	offsets: 16, 16, 128, 128
 stand_00_0063
-	bounds: 189, 1498, 78, 75
-	offsets: 26, 16, 128, 128
+	bounds: 1113, 1805, 88, 75
+	offsets: 16, 16, 128, 128
 stand_00_0041
-	bounds: 137, 107, 77, 76
-	offsets: 27, 16, 128, 128
+	bounds: 96, 96, 87, 76
+	offsets: 17, 16, 128, 128
 stand_00_0059
-	bounds: 137, 107, 77, 76
-	offsets: 27, 16, 128, 128
+	bounds: 96, 96, 87, 76
+	offsets: 17, 16, 128, 128
 stand_00_0045
-	bounds: 344, 1890, 77, 76
-	offsets: 27, 16, 128, 128
+	bounds: 635, 1649, 86, 76
+	offsets: 18, 16, 128, 128
 stand_00_0055
-	bounds: 344, 1890, 77, 76
-	offsets: 27, 16, 128, 128
+	bounds: 635, 1649, 86, 76
+	offsets: 18, 16, 128, 128
 stand_00_0047
-	bounds: 67, 606, 78, 76
-	offsets: 27, 16, 128, 128
+	bounds: 784, 889, 86, 76
+	offsets: 18, 16, 128, 128
 stand_00_0014
-	bounds: 67, 606, 78, 76
-	offsets: 27, 16, 128, 128
+	bounds: 784, 889, 86, 76
+	offsets: 18, 16, 128, 128
 stand_00_0053
-	bounds: 67, 606, 78, 76
-	offsets: 27, 16, 128, 128
+	bounds: 784, 889, 86, 76
+	offsets: 18, 16, 128, 128
 stand_00_0049
-	bounds: 141, 1268, 78, 76
-	offsets: 27, 16, 128, 128
+	bounds: 1882, 1650, 86, 76
+	offsets: 18, 16, 128, 128
 stand_00_0050
-	bounds: 423, 1891, 78, 76
-	offsets: 27, 16, 128, 128
+	bounds: 742, 1723, 87, 76
+	offsets: 18, 16, 128, 128
 stand_00_0017
-	bounds: 423, 1891, 78, 76
-	offsets: 27, 16, 128, 128
+	bounds: 742, 1723, 87, 76
+	offsets: 18, 16, 128, 128
 stand_00_0052
-	bounds: 56, 376, 78, 76
-	offsets: 27, 16, 128, 128
+	bounds: 480, 653, 86, 76
+	offsets: 18, 16, 128, 128
 stand_00_0015
-	bounds: 56, 376, 78, 76
-	offsets: 27, 16, 128, 128
+	bounds: 480, 653, 86, 76
+	offsets: 18, 16, 128, 128
 stand_00_0048
-	bounds: 56, 376, 78, 76
-	offsets: 27, 16, 128, 128
+	bounds: 480, 653, 86, 76
+	offsets: 18, 16, 128, 128
 stand_00_0057
-	bounds: 137, 261, 77, 76
-	offsets: 27, 16, 128, 128
+	bounds: 1618, 1651, 86, 76
+	offsets: 18, 16, 128, 128
 stand_00_0043
-	bounds: 137, 261, 77, 76
-	offsets: 27, 16, 128, 128
+	bounds: 1618, 1651, 86, 76
+	offsets: 18, 16, 128, 128
 stand_00_0058
-	bounds: 190, 1650, 77, 76
-	offsets: 27, 16, 128, 128
+	bounds: 1886, 1728, 87, 76
+	offsets: 17, 16, 128, 128
 stand_00_0009
-	bounds: 190, 1650, 77, 76
-	offsets: 27, 16, 128, 128
+	bounds: 1886, 1728, 87, 76
+	offsets: 17, 16, 128, 128
 stand_00_0042
-	bounds: 190, 1650, 77, 76
-	offsets: 27, 16, 128, 128
+	bounds: 1886, 1728, 87, 76
+	offsets: 17, 16, 128, 128
 stand_00_0060
-	bounds: 226, 568, 77, 76
-	offsets: 27, 16, 128, 128
+	bounds: 546, 1649, 87, 76
+	offsets: 17, 16, 128, 128
 stand_00_0007
-	bounds: 226, 568, 77, 76
-	offsets: 27, 16, 128, 128
+	bounds: 546, 1649, 87, 76
+	offsets: 17, 16, 128, 128
 stand_00_0040
-	bounds: 226, 568, 77, 76
-	offsets: 27, 16, 128, 128
+	bounds: 546, 1649, 87, 76
+	offsets: 17, 16, 128, 128
 stand_00_0065
-	bounds: 147, 491, 78, 75
-	offsets: 26, 16, 128, 128
+	bounds: 1023, 1739, 88, 75
+	offsets: 16, 16, 128, 128
 stand_00_0002
-	bounds: 147, 491, 78, 75
-	offsets: 26, 16, 128, 128
+	bounds: 1023, 1739, 88, 75
+	offsets: 16, 16, 128, 128
 stand_00_0035
-	bounds: 147, 491, 78, 75
-	offsets: 26, 16, 128, 128
+	bounds: 1023, 1739, 88, 75
+	offsets: 16, 16, 128, 128
 stand_00_0066
-	bounds: 1846, 1971, 78, 75
-	offsets: 26, 16, 128, 128
+	bounds: 763, 1801, 88, 75
+	offsets: 16, 16, 128, 128
 stand_01_0001
-	bounds: 922, 1419, 57, 82
+	bounds: 1083, 991, 75, 82
 	offsets: 26, 9, 128, 128
 stand_01_0034
-	bounds: 922, 1419, 57, 82
+	bounds: 1083, 991, 75, 82
 	offsets: 26, 9, 128, 128
 stand_01_0003
-	bounds: 1497, 1427, 57, 82
+	bounds: 1111, 1644, 75, 82
 	offsets: 26, 9, 128, 128
 stand_01_0004
-	bounds: 594, 1491, 57, 82
+	bounds: 1036, 1496, 75, 82
 	offsets: 26, 9, 128, 128
 stand_01_0037
-	bounds: 594, 1491, 57, 82
+	bounds: 1036, 1496, 75, 82
 	offsets: 26, 9, 128, 128
 stand_01_0063
-	bounds: 594, 1491, 57, 82
+	bounds: 1036, 1496, 75, 82
 	offsets: 26, 9, 128, 128
 stand_01_0007
-	bounds: 356, 159, 58, 82
+	bounds: 649, 483, 75, 82
 	offsets: 26, 9, 128, 128
 stand_01_0040
-	bounds: 356, 159, 58, 82
+	bounds: 649, 483, 75, 82
 	offsets: 26, 9, 128, 128
 stand_01_0060
-	bounds: 356, 159, 58, 82
+	bounds: 649, 483, 75, 82
 	offsets: 26, 9, 128, 128
 stand_01_0008
-	bounds: 1437, 1343, 58, 82
+	bounds: 1265, 1642, 75, 82
 	offsets: 26, 9, 128, 128
 stand_01_0009
-	bounds: 595, 1323, 57, 82
+	bounds: 1064, 1159, 74, 82
 	offsets: 27, 9, 128, 128
 stand_01_0042
-	bounds: 595, 1323, 57, 82
+	bounds: 1064, 1159, 74, 82
 	offsets: 27, 9, 128, 128
 stand_01_0058
-	bounds: 595, 1323, 57, 82
+	bounds: 1064, 1159, 74, 82
 	offsets: 27, 9, 128, 128
 stand_01_0010
-	bounds: 476, 1406, 57, 83
+	bounds: 880, 235, 74, 83
 	offsets: 27, 8, 128, 128
 stand_01_0012
-	bounds: 262, 1803, 58, 83
+	bounds: 233, 788, 74, 83
 	offsets: 27, 8, 128, 128
 stand_01_0014
-	bounds: 921, 1335, 58, 82
+	bounds: 1008, 905, 74, 82
 	offsets: 27, 8, 128, 128
 stand_01_0047
-	bounds: 921, 1335, 58, 82
+	bounds: 1008, 905, 74, 82
 	offsets: 27, 8, 128, 128
 stand_01_0053
-	bounds: 921, 1335, 58, 82
+	bounds: 1008, 905, 74, 82
 	offsets: 27, 8, 128, 128
 stand_01_0017
-	bounds: 535, 1323, 58, 82
+	bounds: 988, 1157, 74, 82
 	offsets: 27, 8, 128, 128
 stand_01_0050
-	bounds: 535, 1323, 58, 82
+	bounds: 988, 1157, 74, 82
 	offsets: 27, 8, 128, 128
 stand_01_0018
-	bounds: 1556, 1343, 58, 82
+	bounds: 956, 501, 74, 82
 	offsets: 27, 8, 128, 128
 stand_01_0019
-	bounds: 1437, 1427, 58, 82
+	bounds: 1342, 1642, 74, 82
 	offsets: 27, 8, 128, 128
 stand_01_0020
-	bounds: 296, 159, 58, 82
+	bounds: 796, 805, 74, 82
 	offsets: 27, 8, 128, 128
 stand_01_0021
-	bounds: 1563, 1884, 58, 83
+	bounds: 879, 320, 74, 83
 	offsets: 27, 8, 128, 128
 stand_01_0022
-	bounds: 296, 328, 58, 83
+	bounds: 322, 375, 74, 83
 	offsets: 27, 8, 128, 128
 stand_01_0023
-	bounds: 1623, 1885, 58, 83
+	bounds: 960, 1495, 74, 83
 	offsets: 27, 8, 128, 128
 stand_01_0024
-	bounds: 1134, 1811, 57, 83
-	offsets: 27, 8, 128, 128
+	bounds: 1418, 1557, 74, 82
+	offsets: 27, 9, 128, 128
 stand_01_0025
-	bounds: 534, 1491, 58, 82
+	bounds: 878, 405, 75, 82
 	offsets: 26, 9, 128, 128
 stand_01_0026
-	bounds: 1497, 1259, 58, 82
+	bounds: 1187, 1559, 75, 82
 	offsets: 26, 9, 128, 128
 stand_01_0027
-	bounds: 1274, 1500, 58, 82
+	bounds: 1084, 907, 75, 82
 	offsets: 26, 9, 128, 128
 stand_01_0028
-	bounds: 1616, 1343, 57, 82
+	bounds: 1341, 1558, 75, 82
 	offsets: 26, 9, 128, 128
 stand_01_0029
-	bounds: 1497, 1343, 57, 82
+	bounds: 1188, 1643, 75, 82
 	offsets: 26, 9, 128, 128
 stand_01_0030
-	bounds: 595, 1407, 57, 82
+	bounds: 1039, 1412, 75, 82
 	offsets: 26, 9, 128, 128
 stand_01_0031
-	bounds: 1556, 1427, 57, 82
+	bounds: 1264, 1558, 75, 82
 	offsets: 26, 9, 128, 128
 stand_01_0032
-	bounds: 1045, 1205, 57, 82
+	bounds: 1088, 823, 75, 82
 	offsets: 26, 9, 128, 128
 stand_01_0033
-	bounds: 1504, 1883, 57, 82
+	bounds: 483, 172, 75, 82
 	offsets: 26, 9, 128, 128
 stand_01_0000
-	bounds: 1504, 1883, 57, 82
-	offsets: 26, 9, 128, 128
-strike_01_0000
-	bounds: 1504, 1883, 57, 82
+	bounds: 483, 172, 75, 82
 	offsets: 26, 9, 128, 128
 stand_01_0035
-	bounds: 597, 1239, 57, 82
+	bounds: 1002, 1073, 75, 82
 	offsets: 26, 9, 128, 128
 stand_01_0002
-	bounds: 597, 1239, 57, 82
+	bounds: 1002, 1073, 75, 82
 	offsets: 26, 9, 128, 128
 stand_01_0065
-	bounds: 597, 1239, 57, 82
+	bounds: 1002, 1073, 75, 82
 	offsets: 26, 9, 128, 128
 stand_01_0038
-	bounds: 682, 1646, 57, 82
+	bounds: 957, 1580, 75, 82
 	offsets: 26, 9, 128, 128
 stand_01_0005
-	bounds: 682, 1646, 57, 82
+	bounds: 957, 1580, 75, 82
 	offsets: 26, 9, 128, 128
 stand_01_0062
-	bounds: 682, 1646, 57, 82
+	bounds: 957, 1580, 75, 82
 	offsets: 26, 9, 128, 128
 stand_01_0043
-	bounds: 130, 1453, 57, 83
+	bounds: 233, 703, 74, 83
 	offsets: 27, 8, 128, 128
 stand_01_0057
-	bounds: 130, 1453, 57, 83
+	bounds: 233, 703, 74, 83
 	offsets: 27, 8, 128, 128
 stand_01_0045
-	bounds: 296, 243, 58, 83
+	bounds: 642, 8, 74, 83
 	offsets: 27, 8, 128, 128
 stand_01_0055
-	bounds: 296, 243, 58, 83
+	bounds: 642, 8, 74, 83
 	offsets: 27, 8, 128, 128
 stand_01_0046
-	bounds: 221, 1339, 58, 83
+	bounds: 232, 873, 74, 83
 	offsets: 27, 8, 128, 128
 stand_01_0013
-	bounds: 221, 1339, 58, 83
+	bounds: 232, 873, 74, 83
 	offsets: 27, 8, 128, 128
 stand_01_0054
-	bounds: 221, 1339, 58, 83
+	bounds: 232, 873, 74, 83
 	offsets: 27, 8, 128, 128
 stand_01_0048
-	bounds: 921, 1503, 58, 82
+	bounds: 1007, 989, 74, 82
 	offsets: 27, 8, 128, 128
 stand_01_0015
-	bounds: 921, 1503, 58, 82
+	bounds: 1007, 989, 74, 82
 	offsets: 27, 8, 128, 128
 stand_01_0052
-	bounds: 921, 1503, 58, 82
+	bounds: 1007, 989, 74, 82
 	offsets: 27, 8, 128, 128
 stand_01_0049
-	bounds: 1615, 1427, 58, 82
+	bounds: 1118, 1396, 74, 82
 	offsets: 27, 8, 128, 128
 stand_01_0051
-	bounds: 535, 1407, 58, 82
+	bounds: 963, 1411, 74, 82
 	offsets: 27, 8, 128, 128
 stand_01_0016
-	bounds: 535, 1407, 58, 82
+	bounds: 963, 1411, 74, 82
 	offsets: 27, 8, 128, 128
 stand_01_0056
-	bounds: 404, 1645, 58, 83
+	bounds: 233, 618, 74, 83
 	offsets: 27, 8, 128, 128
 stand_01_0011
-	bounds: 404, 1645, 58, 83
+	bounds: 233, 618, 74, 83
 	offsets: 27, 8, 128, 128
 stand_01_0044
-	bounds: 404, 1645, 58, 83
+	bounds: 233, 618, 74, 83
 	offsets: 27, 8, 128, 128
 stand_01_0059
-	bounds: 332, 1474, 58, 82
+	bounds: 641, 93, 75, 82
 	offsets: 26, 9, 128, 128
 stand_01_0041
-	bounds: 332, 1474, 58, 82
+	bounds: 641, 93, 75, 82
 	offsets: 26, 9, 128, 128
 stand_01_0061
-	bounds: 730, 1487, 58, 82
+	bounds: 1079, 1075, 75, 82
 	offsets: 26, 9, 128, 128
 stand_01_0006
-	bounds: 730, 1487, 58, 82
+	bounds: 1079, 1075, 75, 82
 	offsets: 26, 9, 128, 128
 stand_01_0039
-	bounds: 730, 1487, 58, 82
+	bounds: 1079, 1075, 75, 82
 	offsets: 26, 9, 128, 128
 stand_01_0064
-	bounds: 796, 1647, 57, 82
+	bounds: 1034, 1580, 75, 82
 	offsets: 26, 9, 128, 128
 stand_01_0036
-	bounds: 796, 1647, 57, 82
+	bounds: 1034, 1580, 75, 82
 	offsets: 26, 9, 128, 128
 stand_01_0066
-	bounds: 1334, 1499, 57, 82
+	bounds: 1011, 821, 75, 82
 	offsets: 26, 9, 128, 128
 stand_02_0000
-	bounds: 466, 1491, 66, 75
-	offsets: 14, 16, 128, 128
+	bounds: 1530, 1729, 86, 84
+	offsets: 14, 7, 128, 128
 stand_02_0033
-	bounds: 466, 1491, 66, 75
-	offsets: 14, 16, 128, 128
-strike_02_0000
-	bounds: 466, 1491, 66, 75
-	offsets: 14, 16, 128, 128
+	bounds: 1530, 1729, 86, 84
+	offsets: 14, 7, 128, 128
 stand_02_0003
-	bounds: 1729, 1362, 66, 75
-	offsets: 14, 16, 128, 128
+	bounds: 696, 1133, 85, 84
+	offsets: 14, 7, 128, 128
 stand_02_0004
-	bounds: 1312, 1422, 66, 75
-	offsets: 14, 16, 128, 128
+	bounds: 76, 853, 85, 84
+	offsets: 14, 7, 128, 128
 stand_02_0037
-	bounds: 1312, 1422, 66, 75
-	offsets: 14, 16, 128, 128
+	bounds: 76, 853, 85, 84
+	offsets: 14, 7, 128, 128
 stand_02_0063
-	bounds: 1312, 1422, 66, 75
-	offsets: 14, 16, 128, 128
+	bounds: 76, 853, 85, 84
+	offsets: 14, 7, 128, 128
 stand_02_0005
-	bounds: 1132, 1657, 67, 75
-	offsets: 13, 16, 128, 128
+	bounds: 259, 1563, 86, 84
+	offsets: 13, 7, 128, 128
 stand_02_0038
-	bounds: 1132, 1657, 67, 75
-	offsets: 13, 16, 128, 128
+	bounds: 259, 1563, 86, 84
+	offsets: 13, 7, 128, 128
 stand_02_0062
-	bounds: 1132, 1657, 67, 75
-	offsets: 13, 16, 128, 128
+	bounds: 259, 1563, 86, 84
+	offsets: 13, 7, 128, 128
 stand_02_0008
-	bounds: 153, 1109, 66, 75
-	offsets: 13, 16, 128, 128
+	bounds: 347, 1563, 85, 84
+	offsets: 13, 7, 128, 128
 stand_02_0009
-	bounds: 1307, 1268, 66, 75
-	offsets: 13, 16, 128, 128
+	bounds: 80, 595, 85, 84
+	offsets: 13, 7, 128, 128
 stand_02_0042
-	bounds: 1307, 1268, 66, 75
-	offsets: 13, 16, 128, 128
+	bounds: 80, 595, 85, 84
+	offsets: 13, 7, 128, 128
 stand_02_0058
-	bounds: 1307, 1268, 66, 75
-	offsets: 13, 16, 128, 128
+	bounds: 80, 595, 85, 84
+	offsets: 13, 7, 128, 128
 stand_02_0010
-	bounds: 1175, 1353, 66, 75
-	offsets: 13, 16, 128, 128
+	bounds: 733, 1477, 84, 84
+	offsets: 13, 7, 128, 128
 stand_02_0012
-	bounds: 1864, 1279, 65, 75
-	offsets: 13, 16, 128, 128
+	bounds: 760, 1219, 84, 84
+	offsets: 13, 7, 128, 128
 stand_02_0013
-	bounds: 911, 1587, 65, 75
-	offsets: 13, 16, 128, 128
+	bounds: 430, 1477, 84, 84
+	offsets: 13, 7, 128, 128
 stand_02_0046
-	bounds: 911, 1587, 65, 75
-	offsets: 13, 16, 128, 128
+	bounds: 430, 1477, 84, 84
+	offsets: 13, 7, 128, 128
 stand_02_0054
-	bounds: 911, 1587, 65, 75
-	offsets: 13, 16, 128, 128
+	bounds: 430, 1477, 84, 84
+	offsets: 13, 7, 128, 128
 stand_02_0017
-	bounds: 1931, 1418, 65, 74
-	offsets: 13, 16, 128, 128
+	bounds: 309, 714, 83, 83
+	offsets: 13, 7, 128, 128
 stand_02_0050
-	bounds: 1931, 1418, 65, 74
-	offsets: 13, 16, 128, 128
+	bounds: 309, 714, 83, 83
+	offsets: 13, 7, 128, 128
 stand_02_0018
-	bounds: 1797, 1280, 65, 74
-	offsets: 13, 16, 128, 128
+	bounds: 782, 967, 83, 83
+	offsets: 13, 7, 128, 128
 stand_02_0019
-	bounds: 1797, 1204, 65, 74
-	offsets: 13, 16, 128, 128
+	bounds: 309, 629, 83, 83
+	offsets: 13, 7, 128, 128
 stand_02_0020
-	bounds: 1863, 1356, 65, 74
-	offsets: 13, 16, 128, 128
+	bounds: 696, 967, 84, 83
+	offsets: 13, 7, 128, 128
 stand_02_0021
-	bounds: 1134, 1734, 65, 75
-	offsets: 13, 16, 128, 128
+	bounds: 278, 1303, 84, 84
+	offsets: 13, 7, 128, 128
 stand_02_0022
-	bounds: 1947, 1570, 65, 75
-	offsets: 13, 16, 128, 128
+	bounds: 78, 681, 84, 84
+	offsets: 13, 7, 128, 128
 stand_02_0023
-	bounds: 1797, 1434, 65, 75
-	offsets: 13, 16, 128, 128
+	bounds: 756, 1305, 84, 84
+	offsets: 13, 7, 128, 128
 stand_02_0024
-	bounds: 1729, 1439, 66, 75
-	offsets: 13, 16, 128, 128
+	bounds: 305, 1055, 85, 84
+	offsets: 13, 7, 128, 128
 stand_02_0025
-	bounds: 1239, 1269, 66, 75
-	offsets: 13, 16, 128, 128
+	bounds: 673, 1219, 85, 84
+	offsets: 13, 7, 128, 128
 stand_02_0026
-	bounds: 729, 1335, 66, 75
-	offsets: 13, 16, 128, 128
+	bounds: 434, 1391, 85, 84
+	offsets: 13, 7, 128, 128
 stand_02_0027
-	bounds: 1689, 1594, 66, 75
-	offsets: 13, 16, 128, 128
+	bounds: 97, 337, 85, 84
+	offsets: 13, 7, 128, 128
 stand_02_0028
-	bounds: 981, 1448, 67, 75
-	offsets: 13, 16, 128, 128
+	bounds: 565, 1727, 86, 84
+	offsets: 13, 7, 128, 128
 stand_02_0029
-	bounds: 1205, 1507, 67, 75
-	offsets: 13, 16, 128, 128
+	bounds: 541, 967, 85, 84
+	offsets: 14, 7, 128, 128
 stand_02_0030
-	bounds: 1311, 1345, 66, 75
-	offsets: 14, 16, 128, 128
+	bounds: 76, 767, 85, 84
+	offsets: 14, 7, 128, 128
 stand_02_0031
-	bounds: 1107, 1360, 66, 75
-	offsets: 14, 16, 128, 128
+	bounds: 521, 1391, 85, 84
+	offsets: 14, 7, 128, 128
 stand_02_0032
-	bounds: 1825, 1587, 66, 75
-	offsets: 14, 16, 128, 128
+	bounds: 221, 958, 85, 84
+	offsets: 14, 7, 128, 128
 stand_02_0034
-	bounds: 1566, 1807, 66, 75
-	offsets: 14, 16, 128, 128
+	bounds: 364, 1303, 85, 84
+	offsets: 14, 7, 128, 128
 stand_02_0001
-	bounds: 1566, 1807, 66, 75
-	offsets: 14, 16, 128, 128
+	bounds: 364, 1303, 85, 84
+	offsets: 14, 7, 128, 128
 stand_02_0036
-	bounds: 1171, 1276, 66, 75
-	offsets: 14, 16, 128, 128
+	bounds: 521, 1305, 85, 84
+	offsets: 14, 7, 128, 128
 stand_02_0064
-	bounds: 1171, 1276, 66, 75
-	offsets: 14, 16, 128, 128
+	bounds: 521, 1305, 85, 84
+	offsets: 14, 7, 128, 128
 stand_02_0039
-	bounds: 152, 1032, 67, 75
-	offsets: 13, 16, 128, 128
+	bounds: 302, 1727, 86, 84
+	offsets: 13, 7, 128, 128
 stand_02_0006
-	bounds: 152, 1032, 67, 75
-	offsets: 13, 16, 128, 128
+	bounds: 302, 1727, 86, 84
+	offsets: 13, 7, 128, 128
 stand_02_0061
-	bounds: 152, 1032, 67, 75
-	offsets: 13, 16, 128, 128
+	bounds: 302, 1727, 86, 84
+	offsets: 13, 7, 128, 128
 stand_02_0041
-	bounds: 1243, 1346, 66, 75
-	offsets: 13, 16, 128, 128
+	bounds: 453, 1219, 85, 84
+	offsets: 13, 7, 128, 128
 stand_02_0059
-	bounds: 1243, 1346, 66, 75
-	offsets: 13, 16, 128, 128
+	bounds: 453, 1219, 85, 84
+	offsets: 13, 7, 128, 128
 stand_02_0044
-	bounds: 1104, 1126, 65, 75
-	offsets: 13, 16, 128, 128
+	bounds: 670, 1305, 84, 84
+	offsets: 13, 7, 128, 128
 stand_02_0011
-	bounds: 1104, 1126, 65, 75
-	offsets: 13, 16, 128, 128
+	bounds: 670, 1305, 84, 84
+	offsets: 13, 7, 128, 128
 stand_02_0056
-	bounds: 1104, 1126, 65, 75
-	offsets: 13, 16, 128, 128
+	bounds: 670, 1305, 84, 84
+	offsets: 13, 7, 128, 128
 stand_02_0045
-	bounds: 1864, 1202, 65, 75
-	offsets: 13, 16, 128, 128
+	bounds: 308, 969, 84, 84
+	offsets: 13, 7, 128, 128
 stand_02_0055
-	bounds: 1864, 1202, 65, 75
-	offsets: 13, 16, 128, 128
+	bounds: 308, 969, 84, 84
+	offsets: 13, 7, 128, 128
 stand_02_0047
-	bounds: 911, 1664, 65, 74
-	offsets: 13, 16, 128, 128
+	bounds: 456, 1134, 83, 83
+	offsets: 13, 7, 128, 128
 stand_02_0014
-	bounds: 911, 1664, 65, 74
-	offsets: 13, 16, 128, 128
+	bounds: 456, 1134, 83, 83
+	offsets: 13, 7, 128, 128
 stand_02_0053
-	bounds: 911, 1664, 65, 74
-	offsets: 13, 16, 128, 128
+	bounds: 456, 1134, 83, 83
+	offsets: 13, 7, 128, 128
 stand_02_0049
-	bounds: 1864, 1432, 65, 74
-	offsets: 13, 16, 128, 128
+	bounds: 308, 884, 83, 83
+	offsets: 13, 7, 128, 128
 stand_02_0051
-	bounds: 1947, 1494, 65, 74
-	offsets: 13, 16, 128, 128
+	bounds: 309, 799, 83, 83
+	offsets: 13, 7, 128, 128
 stand_02_0016
-	bounds: 1947, 1494, 65, 74
-	offsets: 13, 16, 128, 128
+	bounds: 309, 799, 83, 83
+	offsets: 13, 7, 128, 128
 stand_02_0052
-	bounds: 1375, 1266, 65, 74
-	offsets: 13, 16, 128, 128
+	bounds: 456, 967, 83, 83
+	offsets: 13, 7, 128, 128
 stand_02_0015
-	bounds: 1375, 1266, 65, 74
-	offsets: 13, 16, 128, 128
+	bounds: 456, 967, 83, 83
+	offsets: 13, 7, 128, 128
 stand_02_0048
-	bounds: 1375, 1266, 65, 74
-	offsets: 13, 16, 128, 128
+	bounds: 456, 967, 83, 83
+	offsets: 13, 7, 128, 128
 stand_02_0057
-	bounds: 1176, 1430, 66, 75
-	offsets: 13, 16, 128, 128
+	bounds: 725, 1563, 84, 84
+	offsets: 13, 7, 128, 128
 stand_02_0043
-	bounds: 1176, 1430, 66, 75
-	offsets: 13, 16, 128, 128
+	bounds: 725, 1563, 84, 84
+	offsets: 13, 7, 128, 128
 stand_02_0060
-	bounds: 1208, 1584, 66, 75
-	offsets: 13, 16, 128, 128
+	bounds: 390, 1727, 85, 84
+	offsets: 13, 7, 128, 128
 stand_02_0007
-	bounds: 1208, 1584, 66, 75
-	offsets: 13, 16, 128, 128
+	bounds: 390, 1727, 85, 84
+	offsets: 13, 7, 128, 128
 stand_02_0040
-	bounds: 1208, 1584, 66, 75
-	offsets: 13, 16, 128, 128
+	bounds: 390, 1727, 85, 84
+	offsets: 13, 7, 128, 128
 stand_02_0065
-	bounds: 1393, 1511, 66, 75
-	offsets: 14, 16, 128, 128
+	bounds: 516, 1477, 85, 84
+	offsets: 14, 7, 128, 128
 stand_02_0002
-	bounds: 1393, 1511, 66, 75
-	offsets: 14, 16, 128, 128
+	bounds: 516, 1477, 85, 84
+	offsets: 14, 7, 128, 128
 stand_02_0035
-	bounds: 1393, 1511, 66, 75
-	offsets: 14, 16, 128, 128
+	bounds: 516, 1477, 85, 84
+	offsets: 14, 7, 128, 128
 stand_02_0066
-	bounds: 1757, 1594, 66, 75
-	offsets: 14, 16, 128, 128
-stand_03_0001
-	bounds: 1050, 1448, 56, 75
-	offsets: 26, 16, 128, 128
-stand_03_0034
-	bounds: 1050, 1448, 56, 75
-	offsets: 26, 16, 128, 128
-stand_03_0003
-	bounds: 1640, 799, 56, 75
-	offsets: 26, 16, 128, 128
-stand_03_0005
-	bounds: 475, 24, 57, 75
-	offsets: 25, 16, 128, 128
-stand_03_0038
-	bounds: 475, 24, 57, 75
-	offsets: 25, 16, 128, 128
-stand_03_0062
-	bounds: 475, 24, 57, 75
-	offsets: 25, 16, 128, 128
-stand_03_0008
-	bounds: 369, 490, 56, 76
-	offsets: 25, 16, 128, 128
-stand_03_0009
-	bounds: 1135, 1896, 56, 76
-	offsets: 25, 16, 128, 128
-stand_03_0042
-	bounds: 1135, 1896, 56, 76
-	offsets: 25, 16, 128, 128
-stand_03_0058
-	bounds: 1135, 1896, 56, 76
-	offsets: 25, 16, 128, 128
-stand_03_0010
-	bounds: 425, 568, 56, 76
-	offsets: 25, 16, 128, 128
-stand_03_0012
-	bounds: 474, 179, 56, 76
-	offsets: 24, 16, 128, 128
-stand_03_0013
-	bounds: 416, 257, 56, 76
-	offsets: 24, 16, 128, 128
-stand_03_0046
-	bounds: 416, 257, 56, 76
-	offsets: 24, 16, 128, 128
-stand_03_0054
-	bounds: 416, 257, 56, 76
-	offsets: 24, 16, 128, 128
-stand_03_0014
-	bounds: 1049, 1370, 56, 76
-	offsets: 24, 16, 128, 128
-stand_03_0047
-	bounds: 1049, 1370, 56, 76
-	offsets: 24, 16, 128, 128
-stand_03_0053
-	bounds: 1049, 1370, 56, 76
-	offsets: 24, 16, 128, 128
-stand_03_0016
-	bounds: 1582, 723, 56, 76
-	offsets: 24, 16, 128, 128
-stand_03_0051
-	bounds: 1582, 723, 56, 76
-	offsets: 24, 16, 128, 128
-stand_03_0018
-	bounds: 416, 101, 56, 76
-	offsets: 24, 16, 128, 128
-stand_03_0019
-	bounds: 982, 795, 56, 76
-	offsets: 24, 16, 128, 128
-stand_03_0020
-	bounds: 474, 257, 56, 76
-	offsets: 24, 16, 128, 128
-stand_03_0021
-	bounds: 1699, 748, 56, 76
-	offsets: 24, 16, 128, 128
-stand_03_0022
-	bounds: 540, 1813, 56, 76
-	offsets: 24, 16, 128, 128
-stand_03_0023
-	bounds: 1396, 822, 57, 76
-	offsets: 24, 16, 128, 128
-stand_03_0024
-	bounds: 1640, 876, 56, 76
-	offsets: 25, 16, 128, 128
-stand_03_0025
-	bounds: 474, 101, 56, 76
-	offsets: 25, 16, 128, 128
-stand_03_0026
-	bounds: 416, 179, 56, 76
-	offsets: 25, 16, 128, 128
-stand_03_0027
-	bounds: 925, 1178, 57, 76
-	offsets: 25, 16, 128, 128
-stand_03_0028
-	bounds: 527, 338, 57, 75
-	offsets: 25, 16, 128, 128
-stand_03_0029
-	bounds: 1640, 722, 57, 75
-	offsets: 25, 16, 128, 128
-stand_03_0030
-	bounds: 532, 107, 56, 75
-	offsets: 26, 16, 128, 128
-stand_03_0031
-	bounds: 483, 569, 56, 75
-	offsets: 26, 16, 128, 128
-stand_03_0032
-	bounds: 1284, 745, 56, 75
-	offsets: 26, 16, 128, 128
-stand_03_0035
-	bounds: 1276, 1584, 56, 75
-	offsets: 26, 16, 128, 128
-stand_03_0002
-	bounds: 1276, 1584, 56, 75
-	offsets: 26, 16, 128, 128
-stand_03_0065
-	bounds: 1276, 1584, 56, 75
-	offsets: 26, 16, 128, 128
-stand_03_0036
-	bounds: 485, 492, 56, 75
-	offsets: 26, 16, 128, 128
-stand_03_0064
-	bounds: 485, 492, 56, 75
-	offsets: 26, 16, 128, 128
-stand_03_0037
-	bounds: 307, 646, 57, 75
-	offsets: 25, 16, 128, 128
-stand_03_0004
-	bounds: 307, 646, 57, 75
-	offsets: 25, 16, 128, 128
-stand_03_0063
-	bounds: 307, 646, 57, 75
-	offsets: 25, 16, 128, 128
-stand_03_0040
-	bounds: 1379, 1342, 56, 76
-	offsets: 25, 16, 128, 128
-stand_03_0007
-	bounds: 1379, 1342, 56, 76
-	offsets: 25, 16, 128, 128
-stand_03_0060
-	bounds: 1379, 1342, 56, 76
-	offsets: 25, 16, 128, 128
-stand_03_0041
-	bounds: 469, 335, 56, 76
-	offsets: 25, 16, 128, 128
-stand_03_0059
-	bounds: 469, 335, 56, 76
-	offsets: 25, 16, 128, 128
-stand_03_0045
-	bounds: 1040, 795, 56, 76
-	offsets: 24, 16, 128, 128
-stand_03_0055
-	bounds: 1040, 795, 56, 76
-	offsets: 24, 16, 128, 128
-stand_03_0048
-	bounds: 366, 1246, 56, 76
-	offsets: 24, 16, 128, 128
-stand_03_0015
-	bounds: 366, 1246, 56, 76
-	offsets: 24, 16, 128, 128
-stand_03_0052
-	bounds: 366, 1246, 56, 76
-	offsets: 24, 16, 128, 128
-stand_03_0049
-	bounds: 427, 490, 56, 76
-	offsets: 24, 16, 128, 128
-stand_03_0050
-	bounds: 1698, 901, 56, 76
-	offsets: 24, 16, 128, 128
-stand_03_0017
-	bounds: 1698, 901, 56, 76
-	offsets: 24, 16, 128, 128
-stand_03_0056
-	bounds: 402, 1812, 56, 76
-	offsets: 24, 16, 128, 128
-stand_03_0011
-	bounds: 402, 1812, 56, 76
-	offsets: 24, 16, 128, 128
-stand_03_0044
-	bounds: 402, 1812, 56, 76
-	offsets: 24, 16, 128, 128
-stand_03_0057
-	bounds: 417, 23, 56, 76
-	offsets: 25, 16, 128, 128
-stand_03_0043
-	bounds: 417, 23, 56, 76
-	offsets: 25, 16, 128, 128
-stand_03_0061
-	bounds: 1334, 1583, 57, 76
-	offsets: 25, 16, 128, 128
-stand_03_0006
-	bounds: 1334, 1583, 57, 76
-	offsets: 25, 16, 128, 128
-stand_03_0039
-	bounds: 1334, 1583, 57, 76
-	offsets: 25, 16, 128, 128
-stand_03_0066
-	bounds: 1461, 1511, 56, 75
-	offsets: 26, 16, 128, 128
-stand_04_0001
-	bounds: 1161, 675, 54, 70
-	offsets: 29, 19, 128, 128
-stand_04_0034
-	bounds: 1161, 675, 54, 70
-	offsets: 29, 19, 128, 128
-stand_04_0002
-	bounds: 640, 722, 54, 70
-	offsets: 29, 19, 128, 128
-stand_04_0035
-	bounds: 640, 722, 54, 70
-	offsets: 29, 19, 128, 128
-stand_04_0065
-	bounds: 640, 722, 54, 70
-	offsets: 29, 19, 128, 128
-stand_04_0003
-	bounds: 1605, 650, 53, 70
-	offsets: 29, 19, 128, 128
-stand_04_0004
-	bounds: 1495, 655, 53, 70
-	offsets: 29, 19, 128, 128
-stand_04_0037
-	bounds: 1495, 655, 53, 70
-	offsets: 29, 19, 128, 128
-stand_04_0063
-	bounds: 1495, 655, 53, 70
-	offsets: 29, 19, 128, 128
-stand_04_0007
-	bounds: 713, 424, 53, 71
-	offsets: 29, 19, 128, 128
-stand_04_0040
-	bounds: 713, 424, 53, 71
-	offsets: 29, 19, 128, 128
-stand_04_0060
-	bounds: 713, 424, 53, 71
-	offsets: 29, 19, 128, 128
-stand_04_0008
-	bounds: 997, 647, 53, 71
-	offsets: 29, 19, 128, 128
-stand_04_0009
-	bounds: 805, 351, 53, 71
-	offsets: 29, 19, 128, 128
-stand_04_0042
-	bounds: 805, 351, 53, 71
-	offsets: 29, 19, 128, 128
-stand_04_0058
-	bounds: 805, 351, 53, 71
-	offsets: 29, 19, 128, 128
-stand_04_0010
-	bounds: 824, 424, 52, 71
-	offsets: 29, 19, 128, 128
-stand_04_0012
-	bounds: 751, 351, 52, 71
-	offsets: 29, 19, 128, 128
-stand_04_0014
-	bounds: 860, 351, 52, 71
-	offsets: 29, 19, 128, 128
-stand_04_0047
-	bounds: 860, 351, 52, 71
-	offsets: 29, 19, 128, 128
-stand_04_0053
-	bounds: 860, 351, 52, 71
-	offsets: 29, 19, 128, 128
-stand_04_0015
-	bounds: 704, 203, 52, 71
-	offsets: 29, 19, 128, 128
-stand_04_0048
-	bounds: 704, 203, 52, 71
-	offsets: 29, 19, 128, 128
-stand_04_0052
-	bounds: 704, 203, 52, 71
-	offsets: 29, 19, 128, 128
-stand_04_0017
-	bounds: 758, 132, 52, 71
-	offsets: 29, 19, 128, 128
-stand_04_0050
-	bounds: 758, 132, 52, 71
-	offsets: 29, 19, 128, 128
-stand_04_0018
-	bounds: 1107, 672, 52, 71
-	offsets: 29, 19, 128, 128
-stand_04_0019
-	bounds: 865, 278, 52, 71
-	offsets: 29, 19, 128, 128
-stand_04_0020
-	bounds: 704, 57, 52, 71
-	offsets: 29, 19, 128, 128
-stand_04_0021
-	bounds: 867, 59, 52, 71
-	offsets: 29, 19, 128, 128
-stand_04_0022
-	bounds: 811, 278, 52, 71
-	offsets: 29, 19, 128, 128
-stand_04_0023
-	bounds: 697, 349, 52, 71
-	offsets: 29, 19, 128, 128
-stand_04_0024
-	bounds: 812, 59, 53, 71
-	offsets: 29, 19, 128, 128
-stand_04_0025
-	bounds: 756, 278, 53, 71
-	offsets: 29, 19, 128, 128
-stand_04_0026
-	bounds: 1052, 648, 53, 71
-	offsets: 29, 19, 128, 128
-stand_04_0027
-	bounds: 812, 132, 53, 71
-	offsets: 29, 19, 128, 128
-stand_04_0028
-	bounds: 823, 497, 53, 71
-	offsets: 29, 19, 128, 128
-stand_04_0029
-	bounds: 1107, 600, 53, 70
-	offsets: 29, 19, 128, 128
-stand_04_0030
-	bounds: 1550, 651, 53, 70
-	offsets: 29, 19, 128, 128
-stand_04_0031
-	bounds: 1329, 673, 54, 70
-	offsets: 29, 19, 128, 128
-stand_04_0032
-	bounds: 1273, 673, 54, 70
-	offsets: 29, 19, 128, 128
-stand_04_0033
-	bounds: 768, 425, 54, 70
-	offsets: 29, 19, 128, 128
-stand_04_0000
-	bounds: 768, 425, 54, 70
-	offsets: 29, 19, 128, 128
-strike_04_0000
-	bounds: 768, 425, 54, 70
-	offsets: 29, 19, 128, 128
-stand_04_0036
-	bounds: 1340, 822, 54, 70
-	offsets: 29, 19, 128, 128
-stand_04_0064
-	bounds: 1340, 822, 54, 70
-	offsets: 29, 19, 128, 128
-stand_04_0041
-	bounds: 768, 497, 53, 71
-	offsets: 29, 19, 128, 128
-stand_04_0059
-	bounds: 768, 497, 53, 71
-	offsets: 29, 19, 128, 128
-stand_04_0045
-	bounds: 867, 205, 52, 71
-	offsets: 29, 19, 128, 128
-stand_04_0055
-	bounds: 867, 205, 52, 71
-	offsets: 29, 19, 128, 128
-stand_04_0049
-	bounds: 702, 276, 52, 71
-	offsets: 29, 19, 128, 128
-stand_04_0051
-	bounds: 758, 205, 52, 71
-	offsets: 29, 19, 128, 128
-stand_04_0016
-	bounds: 758, 205, 52, 71
-	offsets: 29, 19, 128, 128
-stand_04_0054
-	bounds: 704, 130, 52, 71
-	offsets: 29, 19, 128, 128
-stand_04_0013
-	bounds: 704, 130, 52, 71
-	offsets: 29, 19, 128, 128
-stand_04_0046
-	bounds: 704, 130, 52, 71
-	offsets: 29, 19, 128, 128
-stand_04_0056
-	bounds: 758, 59, 52, 71
-	offsets: 29, 19, 128, 128
-stand_04_0011
-	bounds: 758, 59, 52, 71
-	offsets: 29, 19, 128, 128
-stand_04_0044
-	bounds: 758, 59, 52, 71
-	offsets: 29, 19, 128, 128
-stand_04_0057
-	bounds: 1893, 1508, 52, 71
-	offsets: 29, 19, 128, 128
-stand_04_0043
-	bounds: 1893, 1508, 52, 71
-	offsets: 29, 19, 128, 128
-stand_04_0061
-	bounds: 812, 205, 53, 71
-	offsets: 29, 19, 128, 128
-stand_04_0006
-	bounds: 812, 205, 53, 71
-	offsets: 29, 19, 128, 128
-stand_04_0039
-	bounds: 812, 205, 53, 71
-	offsets: 29, 19, 128, 128
-stand_04_0062
-	bounds: 1385, 673, 53, 70
-	offsets: 29, 19, 128, 128
-stand_04_0005
-	bounds: 1385, 673, 53, 70
-	offsets: 29, 19, 128, 128
-stand_04_0038
-	bounds: 1385, 673, 53, 70
-	offsets: 29, 19, 128, 128
-stand_04_0066
-	bounds: 1217, 675, 54, 70
-	offsets: 29, 19, 128, 128
-stand_05_0003
-	bounds: 1837, 1896, 75, 73
-	offsets: 30, 16, 128, 128
-stand_05_0005
-	bounds: 1055, 1599, 75, 73
-	offsets: 30, 16, 128, 128
-stand_05_0038
-	bounds: 1055, 1599, 75, 73
-	offsets: 30, 16, 128, 128
-stand_05_0062
-	bounds: 1055, 1599, 75, 73
-	offsets: 30, 16, 128, 128
-stand_05_0008
-	bounds: 58, 301, 76, 73
-	offsets: 30, 16, 128, 128
-stand_05_0010
-	bounds: 1479, 1733, 75, 73
-	offsets: 31, 16, 128, 128
-stand_05_0011
-	bounds: 1427, 1892, 75, 73
-	offsets: 31, 16, 128, 128
-stand_05_0044
-	bounds: 1427, 1892, 75, 73
-	offsets: 31, 16, 128, 128
-stand_05_0056
-	bounds: 1427, 1892, 75, 73
-	offsets: 31, 16, 128, 128
-stand_05_0012
-	bounds: 281, 1399, 75, 73
-	offsets: 31, 16, 128, 128
-stand_05_0013
-	bounds: 978, 1675, 75, 73
-	offsets: 31, 16, 128, 128
-stand_05_0046
-	bounds: 978, 1675, 75, 73
-	offsets: 31, 16, 128, 128
-stand_05_0054
-	bounds: 978, 1675, 75, 73
-	offsets: 31, 16, 128, 128
-stand_05_0016
-	bounds: 1914, 1895, 75, 73
-	offsets: 32, 16, 128, 128
-stand_05_0051
-	bounds: 1914, 1895, 75, 73
-	offsets: 32, 16, 128, 128
-stand_05_0018
-	bounds: 1325, 1746, 75, 73
-	offsets: 32, 16, 128, 128
-stand_05_0019
-	bounds: 653, 1496, 75, 73
-	offsets: 32, 16, 128, 128
-stand_05_0020
-	bounds: 654, 1421, 74, 73
-	offsets: 32, 16, 128, 128
-stand_05_0021
-	bounds: 1913, 1820, 75, 73
-	offsets: 31, 16, 128, 128
-stand_05_0022
-	bounds: 605, 1655, 75, 73
-	offsets: 31, 16, 128, 128
-stand_05_0023
-	bounds: 1556, 1732, 75, 73
-	offsets: 31, 16, 128, 128
-stand_05_0024
-	bounds: 1425, 1817, 75, 73
-	offsets: 31, 16, 128, 128
-stand_05_0025
-	bounds: 284, 1324, 75, 73
-	offsets: 31, 16, 128, 128
-stand_05_0026
-	bounds: 978, 1750, 76, 73
-	offsets: 30, 16, 128, 128
-stand_05_0027
-	bounds: 823, 1572, 75, 73
-	offsets: 30, 16, 128, 128
-stand_05_0028
-	bounds: 1384, 1667, 75, 73
-	offsets: 30, 16, 128, 128
-stand_05_0029
-	bounds: 1689, 1821, 75, 73
-	offsets: 30, 16, 128, 128
-stand_05_0030
-	bounds: 289, 1249, 75, 73
-	offsets: 30, 16, 128, 128
-stand_05_0031
-	bounds: 1056, 1824, 76, 73
-	offsets: 29, 16, 128, 128
-stand_05_0032
-	bounds: 1269, 1823, 76, 73
-	offsets: 29, 16, 128, 128
-stand_05_0034
-	bounds: 901, 1900, 76, 73
-	offsets: 29, 16, 128, 128
-stand_05_0001
-	bounds: 901, 1900, 76, 73
-	offsets: 29, 16, 128, 128
-stand_05_0036
-	bounds: 1689, 1671, 75, 73
-	offsets: 30, 16, 128, 128
-stand_05_0064
-	bounds: 1689, 1671, 75, 73
-	offsets: 30, 16, 128, 128
-stand_05_0037
-	bounds: 1760, 1896, 75, 73
-	offsets: 30, 16, 128, 128
-stand_05_0004
-	bounds: 1760, 1896, 75, 73
-	offsets: 30, 16, 128, 128
-stand_05_0063
-	bounds: 1760, 1896, 75, 73
-	offsets: 30, 16, 128, 128
-stand_05_0039
-	bounds: 978, 1600, 75, 73
-	offsets: 30, 16, 128, 128
-stand_05_0006
-	bounds: 978, 1600, 75, 73
-	offsets: 30, 16, 128, 128
-stand_05_0061
-	bounds: 978, 1600, 75, 73
-	offsets: 30, 16, 128, 128
-stand_05_0041
-	bounds: 1193, 1898, 76, 73
-	offsets: 30, 16, 128, 128
-stand_05_0059
-	bounds: 1193, 1898, 76, 73
-	offsets: 30, 16, 128, 128
-stand_05_0047
-	bounds: 1766, 1746, 75, 73
-	offsets: 32, 16, 128, 128
-stand_05_0014
-	bounds: 1766, 1746, 75, 73
-	offsets: 32, 16, 128, 128
-stand_05_0053
-	bounds: 1766, 1746, 75, 73
-	offsets: 32, 16, 128, 128
-stand_05_0049
-	bounds: 1766, 1671, 75, 73
-	offsets: 32, 16, 128, 128
-stand_05_0050
-	bounds: 1683, 1896, 75, 73
-	offsets: 32, 16, 128, 128
-stand_05_0017
-	bounds: 1683, 1896, 75, 73
-	offsets: 32, 16, 128, 128
-stand_05_0052
-	bounds: 1055, 1674, 75, 73
-	offsets: 32, 16, 128, 128
-stand_05_0015
-	bounds: 1055, 1674, 75, 73
-	offsets: 32, 16, 128, 128
-stand_05_0048
-	bounds: 1055, 1674, 75, 73
-	offsets: 32, 16, 128, 128
-stand_05_0055
-	bounds: 1766, 1821, 75, 73
-	offsets: 31, 16, 128, 128
-stand_05_0045
-	bounds: 1766, 1821, 75, 73
-	offsets: 31, 16, 128, 128
-stand_05_0057
-	bounds: 1402, 1742, 75, 73
-	offsets: 31, 16, 128, 128
-stand_05_0043
-	bounds: 1402, 1742, 75, 73
-	offsets: 31, 16, 128, 128
-stand_05_0058
-	bounds: 76, 1165, 75, 73
-	offsets: 31, 16, 128, 128
-stand_05_0009
-	bounds: 76, 1165, 75, 73
-	offsets: 31, 16, 128, 128
-stand_05_0042
-	bounds: 76, 1165, 75, 73
-	offsets: 31, 16, 128, 128
-stand_05_0060
-	bounds: 1689, 1746, 75, 73
-	offsets: 30, 16, 128, 128
-stand_05_0007
-	bounds: 1689, 1746, 75, 73
-	offsets: 30, 16, 128, 128
-stand_05_0040
-	bounds: 1689, 1746, 75, 73
-	offsets: 30, 16, 128, 128
-stand_05_0065
-	bounds: 1057, 1899, 76, 73
-	offsets: 29, 16, 128, 128
-stand_05_0002
-	bounds: 1057, 1899, 76, 73
-	offsets: 29, 16, 128, 128
-stand_05_0035
-	bounds: 1057, 1899, 76, 73
-	offsets: 29, 16, 128, 128
-stand_05_0066
-	bounds: 1271, 1898, 76, 73
-	offsets: 29, 16, 128, 128
-stand_06_0001
-	bounds: 1462, 1588, 54, 81
-	offsets: 29, 8, 128, 128
-stand_06_0034
-	bounds: 1462, 1588, 54, 81
-	offsets: 29, 8, 128, 128
-stand_06_0003
-	bounds: 519, 1023, 53, 81
-	offsets: 29, 8, 128, 128
-stand_06_0004
-	bounds: 1442, 1260, 53, 81
-	offsets: 29, 8, 128, 128
-stand_06_0037
-	bounds: 1442, 1260, 53, 81
-	offsets: 29, 8, 128, 128
-stand_06_0063
-	bounds: 1442, 1260, 53, 81
-	offsets: 29, 8, 128, 128
-stand_06_0008
-	bounds: 683, 1023, 53, 81
-	offsets: 29, 8, 128, 128
-stand_06_0009
-	bounds: 1677, 1262, 53, 81
-	offsets: 29, 8, 128, 128
-stand_06_0042
-	bounds: 1677, 1262, 53, 81
-	offsets: 29, 8, 128, 128
-stand_06_0058
-	bounds: 1677, 1262, 53, 81
-	offsets: 29, 8, 128, 128
-stand_06_0010
-	bounds: 418, 787, 52, 80
-	offsets: 29, 8, 128, 128
-stand_06_0012
-	bounds: 675, 1730, 52, 81
-	offsets: 29, 7, 128, 128
-stand_06_0014
-	bounds: 1401, 1125, 52, 81
-	offsets: 29, 7, 128, 128
-stand_06_0047
-	bounds: 1401, 1125, 52, 81
-	offsets: 29, 7, 128, 128
-stand_06_0053
-	bounds: 1401, 1125, 52, 81
-	offsets: 29, 7, 128, 128
-stand_06_0017
-	bounds: 1893, 1581, 52, 81
-	offsets: 29, 7, 128, 128
-stand_06_0050
-	bounds: 1893, 1581, 52, 81
-	offsets: 29, 7, 128, 128
-stand_06_0018
-	bounds: 849, 1023, 52, 81
-	offsets: 29, 7, 128, 128
-stand_06_0019
-	bounds: 356, 1023, 52, 81
-	offsets: 29, 7, 128, 128
-stand_06_0020
-	bounds: 527, 869, 52, 81
-	offsets: 29, 7, 128, 128
-stand_06_0021
-	bounds: 629, 1023, 52, 81
-	offsets: 29, 7, 128, 128
-stand_06_0022
-	bounds: 1675, 1345, 52, 81
-	offsets: 29, 7, 128, 128
-stand_06_0023
-	bounds: 903, 1023, 52, 81
-	offsets: 29, 7, 128, 128
-stand_06_0024
-	bounds: 464, 1023, 53, 81
-	offsets: 29, 8, 128, 128
-stand_06_0025
-	bounds: 1634, 1802, 53, 81
-	offsets: 29, 8, 128, 128
-stand_06_0026
-	bounds: 738, 1023, 53, 81
-	offsets: 29, 8, 128, 128
-stand_06_0027
-	bounds: 1574, 1176, 53, 81
-	offsets: 29, 8, 128, 128
-stand_06_0028
-	bounds: 472, 869, 53, 81
-	offsets: 29, 8, 128, 128
-stand_06_0029
-	bounds: 574, 1023, 53, 81
-	offsets: 29, 8, 128, 128
-stand_06_0030
-	bounds: 1572, 1588, 53, 81
-	offsets: 29, 8, 128, 128
-stand_06_0031
-	bounds: 793, 1023, 54, 81
-	offsets: 29, 8, 128, 128
-stand_06_0032
-	bounds: 306, 869, 54, 81
-	offsets: 29, 8, 128, 128
-stand_06_0035
-	bounds: 855, 1647, 54, 81
-	offsets: 29, 8, 128, 128
-stand_06_0002
-	bounds: 855, 1647, 54, 81
-	offsets: 29, 8, 128, 128
-stand_06_0065
-	bounds: 855, 1647, 54, 81
-	offsets: 29, 8, 128, 128
-stand_06_0038
-	bounds: 486, 1240, 53, 81
-	offsets: 29, 8, 128, 128
-stand_06_0005
-	bounds: 486, 1240, 53, 81
-	offsets: 29, 8, 128, 128
-stand_06_0062
-	bounds: 486, 1240, 53, 81
-	offsets: 29, 8, 128, 128
-stand_06_0040
-	bounds: 1455, 1125, 53, 81
-	offsets: 29, 8, 128, 128
-stand_06_0007
-	bounds: 1455, 1125, 53, 81
-	offsets: 29, 8, 128, 128
-stand_06_0060
-	bounds: 1455, 1125, 53, 81
-	offsets: 29, 8, 128, 128
-stand_06_0043
-	bounds: 1238, 1126, 52, 80
-	offsets: 29, 8, 128, 128
-stand_06_0057
-	bounds: 1238, 1126, 52, 80
-	offsets: 29, 8, 128, 128
-stand_06_0045
-	bounds: 410, 1023, 52, 81
-	offsets: 29, 7, 128, 128
-stand_06_0055
-	bounds: 410, 1023, 52, 81
-	offsets: 29, 7, 128, 128
-stand_06_0046
-	bounds: 621, 1730, 52, 81
-	offsets: 29, 7, 128, 128
-stand_06_0013
-	bounds: 621, 1730, 52, 81
-	offsets: 29, 7, 128, 128
-stand_06_0054
-	bounds: 621, 1730, 52, 81
-	offsets: 29, 7, 128, 128
-stand_06_0048
-	bounds: 1347, 1125, 52, 81
-	offsets: 29, 7, 128, 128
-stand_06_0015
-	bounds: 1347, 1125, 52, 81
-	offsets: 29, 7, 128, 128
-stand_06_0052
-	bounds: 1347, 1125, 52, 81
-	offsets: 29, 7, 128, 128
-stand_06_0049
-	bounds: 418, 869, 52, 81
-	offsets: 29, 7, 128, 128
-stand_06_0051
-	bounds: 424, 1323, 52, 81
-	offsets: 29, 7, 128, 128
-stand_06_0016
-	bounds: 424, 1323, 52, 81
-	offsets: 29, 7, 128, 128
-stand_06_0056
-	bounds: 1675, 1428, 52, 81
-	offsets: 29, 7, 128, 128
-stand_06_0011
-	bounds: 1675, 1428, 52, 81
-	offsets: 29, 7, 128, 128
-stand_06_0044
-	bounds: 1675, 1428, 52, 81
-	offsets: 29, 7, 128, 128
-stand_06_0059
-	bounds: 135, 1703, 53, 81
-	offsets: 29, 8, 128, 128
-stand_06_0041
-	bounds: 135, 1703, 53, 81
-	offsets: 29, 8, 128, 128
-stand_06_0061
-	bounds: 1292, 1125, 53, 81
-	offsets: 29, 8, 128, 128
-stand_06_0006
-	bounds: 1292, 1125, 53, 81
-	offsets: 29, 8, 128, 128
-stand_06_0039
-	bounds: 1292, 1125, 53, 81
-	offsets: 29, 8, 128, 128
-stand_06_0064
-	bounds: 541, 1240, 54, 81
-	offsets: 29, 8, 128, 128
-stand_06_0036
-	bounds: 541, 1240, 54, 81
-	offsets: 29, 8, 128, 128
-stand_06_0066
-	bounds: 1641, 1511, 54, 81
-	offsets: 29, 8, 128, 128
-stand_07_0000
-	bounds: 295, 84, 61, 73
-	offsets: 13, 16, 128, 128
-stand_07_0033
-	bounds: 295, 84, 61, 73
-	offsets: 13, 16, 128, 128
-strike_07_0000
-	bounds: 295, 84, 61, 73
-	offsets: 13, 16, 128, 128
-stand_07_0001
-	bounds: 1341, 975, 62, 73
-	offsets: 12, 16, 128, 128
-stand_07_0034
-	bounds: 1341, 975, 62, 73
-	offsets: 12, 16, 128, 128
-stand_07_0003
-	bounds: 1276, 898, 62, 73
-	offsets: 12, 16, 128, 128
-stand_07_0004
-	bounds: 1341, 1050, 62, 73
-	offsets: 12, 16, 128, 128
-stand_07_0037
-	bounds: 1341, 1050, 62, 73
-	offsets: 12, 16, 128, 128
-stand_07_0063
-	bounds: 1341, 1050, 62, 73
-	offsets: 12, 16, 128, 128
-stand_07_0005
-	bounds: 861, 1180, 62, 73
-	offsets: 12, 16, 128, 128
-stand_07_0038
-	bounds: 861, 1180, 62, 73
-	offsets: 12, 16, 128, 128
-stand_07_0062
-	bounds: 861, 1180, 62, 73
-	offsets: 12, 16, 128, 128
-stand_07_0008
-	bounds: 938, 720, 61, 73
-	offsets: 12, 16, 128, 128
-stand_07_0009
-	bounds: 1519, 802, 61, 73
-	offsets: 12, 16, 128, 128
-stand_07_0042
-	bounds: 1519, 802, 61, 73
-	offsets: 12, 16, 128, 128
-stand_07_0058
-	bounds: 1519, 802, 61, 73
-	offsets: 12, 16, 128, 128
-stand_07_0010
-	bounds: 1694, 979, 62, 73
-	offsets: 11, 16, 128, 128
-stand_07_0012
-	bounds: 1213, 1051, 62, 73
-	offsets: 11, 16, 128, 128
-stand_07_0013
-	bounds: 1502, 1808, 62, 73
-	offsets: 11, 16, 128, 128
-stand_07_0046
-	bounds: 1502, 1808, 62, 73
-	offsets: 11, 16, 128, 128
-stand_07_0054
-	bounds: 1502, 1808, 62, 73
-	offsets: 11, 16, 128, 128
-stand_07_0017
-	bounds: 1456, 802, 61, 73
-	offsets: 11, 16, 128, 128
-stand_07_0050
-	bounds: 1456, 802, 61, 73
-	offsets: 11, 16, 128, 128
-stand_07_0018
-	bounds: 1631, 1032, 61, 73
-	offsets: 11, 16, 128, 128
-stand_07_0019
-	bounds: 696, 719, 61, 73
-	offsets: 11, 16, 128, 128
-stand_07_0020
-	bounds: 1395, 900, 61, 73
-	offsets: 11, 16, 128, 128
-stand_07_0021
-	bounds: 1157, 747, 62, 73
-	offsets: 11, 16, 128, 128
-stand_07_0022
-	bounds: 957, 977, 62, 73
-	offsets: 11, 16, 128, 128
-stand_07_0023
-	bounds: 1021, 1051, 62, 73
-	offsets: 11, 16, 128, 128
-stand_07_0024
-	bounds: 759, 719, 61, 73
-	offsets: 12, 16, 128, 128
-stand_07_0025
-	bounds: 1458, 877, 61, 73
-	offsets: 12, 16, 128, 128
-stand_07_0026
-	bounds: 358, 1399, 61, 73
-	offsets: 12, 16, 128, 128
-stand_07_0027
-	bounds: 1405, 975, 62, 73
-	offsets: 12, 16, 128, 128
-stand_07_0028
-	bounds: 1149, 1051, 62, 73
-	offsets: 12, 16, 128, 128
-stand_07_0029
-	bounds: 1157, 822, 62, 73
-	offsets: 12, 16, 128, 128
-stand_07_0030
-	bounds: 1405, 1050, 62, 73
-	offsets: 12, 16, 128, 128
-stand_07_0031
-	bounds: 984, 1130, 62, 73
-	offsets: 12, 16, 128, 128
-stand_07_0032
-	bounds: 1889, 1113, 62, 73
-	offsets: 12, 16, 128, 128
-stand_07_0036
-	bounds: 1085, 1051, 62, 73
-	offsets: 12, 16, 128, 128
-stand_07_0064
-	bounds: 1085, 1051, 62, 73
-	offsets: 12, 16, 128, 128
-stand_07_0039
-	bounds: 682, 1571, 62, 73
-	offsets: 12, 16, 128, 128
-stand_07_0006
-	bounds: 682, 1571, 62, 73
-	offsets: 12, 16, 128, 128
-stand_07_0061
-	bounds: 682, 1571, 62, 73
-	offsets: 12, 16, 128, 128
-stand_07_0041
-	bounds: 1221, 747, 61, 73
-	offsets: 12, 16, 128, 128
-stand_07_0059
-	bounds: 1221, 747, 61, 73
-	offsets: 12, 16, 128, 128
-stand_07_0044
-	bounds: 1510, 1106, 62, 73
-	offsets: 11, 16, 128, 128
-stand_07_0011
-	bounds: 1510, 1106, 62, 73
-	offsets: 11, 16, 128, 128
-stand_07_0056
-	bounds: 1510, 1106, 62, 73
-	offsets: 11, 16, 128, 128
-stand_07_0045
-	bounds: 1888, 1038, 62, 73
-	offsets: 11, 16, 128, 128
-stand_07_0055
-	bounds: 1888, 1038, 62, 73
-	offsets: 11, 16, 128, 128
-stand_07_0047
-	bounds: 268, 1728, 61, 73
-	offsets: 11, 16, 128, 128
-stand_07_0014
-	bounds: 268, 1728, 61, 73
-	offsets: 11, 16, 128, 128
-stand_07_0053
-	bounds: 268, 1728, 61, 73
-	offsets: 11, 16, 128, 128
-stand_07_0049
-	bounds: 1532, 952, 61, 73
-	offsets: 11, 16, 128, 128
-stand_07_0051
-	bounds: 1521, 877, 61, 73
-	offsets: 11, 16, 128, 128
-stand_07_0016
-	bounds: 1521, 877, 61, 73
-	offsets: 11, 16, 128, 128
-stand_07_0052
-	bounds: 361, 1324, 61, 73
-	offsets: 11, 16, 128, 128
-stand_07_0015
-	bounds: 361, 1324, 61, 73
-	offsets: 11, 16, 128, 128
-stand_07_0048
-	bounds: 361, 1324, 61, 73
-	offsets: 11, 16, 128, 128
-stand_07_0057
-	bounds: 1824, 1053, 62, 73
-	offsets: 11, 16, 128, 128
-stand_07_0043
-	bounds: 1824, 1053, 62, 73
-	offsets: 11, 16, 128, 128
-stand_07_0060
-	bounds: 221, 1264, 61, 73
-	offsets: 12, 16, 128, 128
-stand_07_0007
-	bounds: 221, 1264, 61, 73
-	offsets: 12, 16, 128, 128
-stand_07_0040
-	bounds: 221, 1264, 61, 73
-	offsets: 12, 16, 128, 128
-stand_07_0065
-	bounds: 730, 1412, 62, 73
-	offsets: 12, 16, 128, 128
-stand_07_0002
-	bounds: 730, 1412, 62, 73
-	offsets: 12, 16, 128, 128
-stand_07_0035
-	bounds: 730, 1412, 62, 73
-	offsets: 12, 16, 128, 128
-stand_07_0066
-	bounds: 1530, 1027, 62, 73
-	offsets: 12, 16, 128, 128
-strike_00_0000
-	bounds: 67, 529, 78, 75
-	offsets: 26, 16, 128, 128
-stand_00_0000
-	bounds: 67, 529, 78, 75
-	offsets: 26, 16, 128, 128
-stand_00_0033
-	bounds: 67, 529, 78, 75
-	offsets: 26, 16, 128, 128
-strike_00_0001
-	bounds: 1683, 1971, 80, 75
-	offsets: 25, 16, 128, 128
-strike_00_0002
-	bounds: 137, 185, 77, 74
-	offsets: 24, 16, 128, 128
-strike_00_0003
-	bounds: 190, 1803, 70, 83
-	offsets: 23, 16, 128, 128
-strike_00_0004
-	bounds: 153, 1186, 66, 80
-	offsets: 22, 16, 128, 128
-strike_00_0005
-	bounds: 1732, 1208, 63, 73
-	offsets: 21, 16, 128, 128
-strike_00_0006
-	bounds: 1001, 721, 61, 72
-	offsets: 19, 16, 128, 128
-strike_00_0007
-	bounds: 534, 31, 58, 74
-	offsets: 19, 14, 128, 128
-strike_00_0008
-	bounds: 668, 1813, 55, 77
-	offsets: 20, 11, 128, 128
-strike_00_0009
-	bounds: 2, 1772, 67, 92
-	offsets: 24, 16, 128, 128
-strike_00_0010
-	bounds: 231, 799, 73, 76
-	offsets: 29, 16, 128, 128
-strike_00_0011
-	bounds: 921, 873, 58, 77
-	offsets: 32, 16, 128, 128
-strike_00_0012
-	bounds: 1990, 1647, 56, 77
-	offsets: 32, 16, 128, 128
-strike_00_0013
-	bounds: 1380, 1420, 55, 77
-	offsets: 32, 16, 128, 128
-strike_00_0014
-	bounds: 863, 873, 56, 77
-	offsets: 31, 16, 128, 128
-strike_00_0015
-	bounds: 636, 873, 57, 77
-	offsets: 31, 16, 128, 128
-strike_00_0016
-	bounds: 1469, 1027, 59, 77
-	offsets: 30, 16, 128, 128
-strike_00_0017
-	bounds: 957, 1052, 62, 76
-	offsets: 29, 16, 128, 128
-strike_00_0018
-	bounds: 1104, 1282, 65, 76
-	offsets: 29, 16, 128, 128
-strike_00_0019
-	bounds: 794, 1419, 68, 76
-	offsets: 28, 16, 128, 128
-strike_00_0020
-	bounds: 1843, 1664, 72, 76
-	offsets: 27, 16, 128, 128
-strike_00_0021
-	bounds: 221, 1108, 75, 75
-	offsets: 27, 16, 128, 128
-strike_01_0001
-	bounds: 401, 1730, 61, 80
-	offsets: 25, 11, 128, 128
-strike_01_0002
-	bounds: 921, 795, 59, 76
-	offsets: 24, 16, 128, 128
-strike_01_0003
-	bounds: 1595, 954, 59, 76
-	offsets: 23, 16, 128, 128
-strike_01_0004
-	bounds: 269, 1558, 63, 83
-	offsets: 19, 16, 128, 128
-strike_01_0005
-	bounds: 2, 1962, 79, 84
-	offsets: 4, 16, 128, 128
-strike_01_0006
-	bounds: 167, 1968, 83, 78
-	offsets: 0, 16, 128, 128
-strike_01_0007
-	bounds: 506, 1969, 83, 77
-	offsets: 0, 16, 128, 128
-strike_01_0008
-	bounds: 421, 1969, 83, 77
-	offsets: 0, 16, 128, 128
-strike_01_0009
-	bounds: 796, 1731, 57, 79
-	offsets: 24, 16, 128, 128
-strike_01_0010
-	bounds: 725, 1813, 70, 77
-	offsets: 28, 13, 128, 128
-strike_01_0011
-	bounds: 1990, 1726, 56, 78
-	offsets: 28, 10, 128, 128
-strike_01_0012
-	bounds: 981, 873, 57, 77
-	offsets: 27, 11, 128, 128
-strike_01_0013
-	bounds: 637, 794, 58, 77
-	offsets: 26, 11, 128, 128
-strike_01_0014
-	bounds: 923, 1256, 59, 77
-	offsets: 25, 11, 128, 128
-strike_01_0015
-	bounds: 1323, 1661, 59, 78
-	offsets: 25, 11, 128, 128
-strike_01_0016
-	bounds: 842, 1892, 57, 79
-	offsets: 26, 10, 128, 128
-strike_01_0017
-	bounds: 1990, 1806, 56, 79
-	offsets: 26, 10, 128, 128
-strike_01_0018
-	bounds: 478, 1323, 55, 81
-	offsets: 27, 9, 128, 128
-strike_01_0019
-	bounds: 741, 1648, 53, 82
-	offsets: 28, 8, 128, 128
-strike_01_0020
-	bounds: 421, 1406, 53, 83
-	offsets: 27, 8, 128, 128
-strike_01_0021
-	bounds: 356, 328, 55, 83
-	offsets: 26, 8, 128, 128
-strike_02_0001
-	bounds: 392, 1491, 72, 75
-	offsets: 8, 16, 128, 128
-strike_02_0002
-	bounds: 468, 1575, 76, 76
-	offsets: 5, 16, 128, 128
-strike_02_0003
-	bounds: 116, 1620, 72, 77
-	offsets: 10, 16, 128, 128
-strike_02_0004
-	bounds: 2, 1678, 65, 92
-	offsets: 18, 16, 128, 128
-strike_02_0005
-	bounds: 2, 1480, 60, 95
-	offsets: 23, 16, 128, 128
-strike_02_0006
-	bounds: 70, 1871, 58, 89
-	offsets: 27, 16, 128, 128
-strike_02_0007
-	bounds: 68, 1413, 60, 85
-	offsets: 28, 16, 128, 128
-strike_02_0008
-	bounds: 984, 1205, 59, 82
-	offsets: 30, 16, 128, 128
-strike_02_0009
-	bounds: 2, 1119, 71, 87
-	offsets: 9, 16, 128, 128
-strike_02_0010
-	bounds: 77, 761, 72, 75
-	offsets: 10, 15, 128, 128
-strike_02_0011
-	bounds: 1824, 1128, 63, 72
-	offsets: 20, 16, 128, 128
-strike_02_0012
-	bounds: 1931, 1188, 63, 72
-	offsets: 20, 16, 128, 128
-strike_02_0013
-	bounds: 1759, 1056, 63, 72
-	offsets: 20, 16, 128, 128
-strike_02_0014
-	bounds: 1759, 1130, 63, 72
-	offsets: 20, 16, 128, 128
-strike_02_0015
-	bounds: 797, 1180, 62, 73
-	offsets: 21, 16, 128, 128
-strike_02_0016
-	bounds: 1519, 727, 61, 73
-	offsets: 22, 16, 128, 128
-strike_02_0017
-	bounds: 1699, 673, 60, 73
-	offsets: 22, 16, 128, 128
-strike_02_0018
-	bounds: 584, 646, 59, 74
-	offsets: 23, 16, 128, 128
-strike_02_0019
-	bounds: 1279, 822, 59, 74
-	offsets: 23, 16, 128, 128
-strike_02_0020
-	bounds: 1519, 1511, 59, 75
-	offsets: 22, 16, 128, 128
-strike_02_0021
-	bounds: 1694, 1054, 63, 75
-	offsets: 18, 16, 128, 128
-strike_03_0000
-	bounds: 1398, 745, 56, 75
-	offsets: 26, 16, 128, 128
+	bounds: 98, 251, 85, 84
+	offsets: 14, 7, 128, 128
 stand_03_0000
-	bounds: 1398, 745, 56, 75
-	offsets: 26, 16, 128, 128
+	bounds: 867, 968, 68, 83
+	offsets: 14, 8, 128, 128
 stand_03_0033
-	bounds: 1398, 745, 56, 75
-	offsets: 26, 16, 128, 128
-strike_03_0001
-	bounds: 532, 261, 54, 75
-	offsets: 26, 16, 128, 128
-strike_03_0002
-	bounds: 860, 1335, 59, 82
-	offsets: 23, 16, 128, 128
-strike_03_0003
-	bounds: 2, 213, 54, 92
-	offsets: 28, 16, 128, 128
-strike_03_0004
-	bounds: 130, 1876, 53, 89
-	offsets: 30, 16, 128, 128
-strike_03_0005
-	bounds: 775, 1892, 65, 79
-	offsets: 31, 16, 128, 128
-strike_03_0006
-	bounds: 1193, 1821, 74, 75
-	offsets: 32, 16, 128, 128
-strike_03_0007
-	bounds: 1349, 1895, 76, 72
-	offsets: 32, 16, 128, 128
-strike_03_0008
-	bounds: 189, 1424, 78, 72
-	offsets: 32, 16, 128, 128
-strike_03_0009
-	bounds: 2, 1577, 57, 99
-	offsets: 24, 16, 128, 128
-strike_03_0010
-	bounds: 1797, 1356, 64, 76
-	offsets: 14, 16, 128, 128
-strike_03_0011
-	bounds: 221, 1185, 66, 77
-	offsets: 20, 16, 128, 128
-strike_03_0012
-	bounds: 1393, 1588, 67, 77
-	offsets: 20, 16, 128, 128
-strike_03_0013
-	bounds: 908, 1821, 68, 77
-	offsets: 20, 16, 128, 128
-strike_03_0014
-	bounds: 728, 1256, 67, 77
-	offsets: 21, 16, 128, 128
-strike_03_0015
-	bounds: 1843, 1817, 68, 77
-	offsets: 21, 16, 128, 128
-strike_03_0016
-	bounds: 598, 1813, 68, 77
-	offsets: 21, 16, 128, 128
-strike_03_0017
-	bounds: 981, 1370, 66, 76
-	offsets: 22, 16, 128, 128
-strike_03_0018
-	bounds: 1171, 1126, 65, 76
-	offsets: 23, 16, 128, 128
-strike_03_0019
-	bounds: 1277, 973, 62, 76
-	offsets: 24, 16, 128, 128
-strike_03_0020
-	bounds: 1631, 1107, 61, 76
-	offsets: 24, 16, 128, 128
-strike_03_0021
-	bounds: 1580, 1511, 59, 75
-	offsets: 25, 16, 128, 128
-strike_04_0001
-	bounds: 1440, 657, 53, 70
-	offsets: 29, 19, 128, 128
-strike_04_0002
-	bounds: 528, 787, 52, 80
-	offsets: 29, 19, 128, 128
-strike_04_0003
-	bounds: 64, 1500, 52, 87
-	offsets: 29, 19, 128, 128
-strike_04_0004
-	bounds: 1518, 1588, 52, 81
-	offsets: 29, 19, 128, 128
-strike_04_0005
-	bounds: 867, 132, 52, 71
-	offsets: 29, 19, 128, 128
-strike_04_0006
-	bounds: 300, 952, 53, 69
-	offsets: 29, 16, 128, 128
-strike_04_0007
-	bounds: 658, 422, 53, 72
-	offsets: 29, 13, 128, 128
-strike_04_0008
-	bounds: 475, 646, 54, 75
-	offsets: 29, 10, 128, 128
-strike_04_0009
-	bounds: 2, 403, 52, 95
-	offsets: 29, 19, 128, 128
-strike_04_0010
-	bounds: 657, 496, 53, 72
-	offsets: 29, 19, 128, 128
-strike_04_0011
-	bounds: 599, 496, 56, 73
-	offsets: 29, 19, 128, 128
-strike_04_0012
-	bounds: 358, 84, 56, 73
-	offsets: 29, 19, 128, 128
-strike_04_0013
-	bounds: 824, 644, 57, 73
-	offsets: 29, 19, 128, 128
-strike_04_0014
-	bounds: 1098, 745, 57, 73
-	offsets: 29, 19, 128, 128
-strike_04_0015
-	bounds: 590, 118, 56, 73
-	offsets: 29, 19, 128, 128
-strike_04_0016
-	bounds: 708, 570, 56, 72
-	offsets: 29, 19, 128, 128
-strike_04_0017
-	bounds: 647, 197, 55, 72
-	offsets: 29, 19, 128, 128
-strike_04_0018
-	bounds: 823, 570, 55, 72
-	offsets: 29, 19, 128, 128
-strike_04_0019
-	bounds: 652, 571, 54, 71
-	offsets: 29, 19, 128, 128
-strike_04_0020
-	bounds: 712, 497, 54, 71
-	offsets: 29, 19, 128, 128
-strike_04_0021
-	bounds: 880, 571, 54, 71
-	offsets: 29, 19, 128, 128
-strike_05_0000
-	bounds: 190, 1728, 76, 73
-	offsets: 29, 16, 128, 128
+	bounds: 867, 968, 68, 83
+	offsets: 14, 8, 128, 128
+stand_03_0001
+	bounds: 343, 119, 68, 83
+	offsets: 14, 8, 128, 128
+stand_03_0034
+	bounds: 343, 119, 68, 83
+	offsets: 14, 8, 128, 128
+stand_03_0003
+	bounds: 726, 483, 68, 83
+	offsets: 14, 8, 128, 128
+stand_03_0005
+	bounds: 887, 1558, 68, 83
+	offsets: 14, 8, 128, 128
+stand_03_0038
+	bounds: 887, 1558, 68, 83
+	offsets: 14, 8, 128, 128
+stand_03_0062
+	bounds: 887, 1558, 68, 83
+	offsets: 14, 8, 128, 128
+stand_03_0008
+	bounds: 163, 853, 67, 84
+	offsets: 14, 8, 128, 128
+stand_03_0009
+	bounds: 434, 1563, 67, 84
+	offsets: 14, 8, 128, 128
+stand_03_0042
+	bounds: 434, 1563, 67, 84
+	offsets: 14, 8, 128, 128
+stand_03_0058
+	bounds: 434, 1563, 67, 84
+	offsets: 14, 8, 128, 128
+stand_03_0010
+	bounds: 783, 1133, 67, 84
+	offsets: 14, 8, 128, 128
+stand_03_0012
+	bounds: 980, 1241, 66, 83
+	offsets: 14, 9, 128, 128
+stand_03_0013
+	bounds: 872, 883, 66, 83
+	offsets: 14, 9, 128, 128
+stand_03_0046
+	bounds: 872, 883, 66, 83
+	offsets: 14, 9, 128, 128
+stand_03_0054
+	bounds: 872, 883, 66, 83
+	offsets: 14, 9, 128, 128
+stand_03_0014
+	bounds: 568, 882, 66, 83
+	offsets: 14, 9, 128, 128
+stand_03_0047
+	bounds: 568, 882, 66, 83
+	offsets: 14, 9, 128, 128
+stand_03_0053
+	bounds: 568, 882, 66, 83
+	offsets: 14, 9, 128, 128
+stand_03_0016
+	bounds: 852, 1138, 66, 83
+	offsets: 14, 9, 128, 128
+stand_03_0051
+	bounds: 852, 1138, 66, 83
+	offsets: 14, 9, 128, 128
+stand_03_0018
+	bounds: 920, 1138, 66, 83
+	offsets: 14, 9, 128, 128
+stand_03_0019
+	bounds: 819, 1478, 66, 83
+	offsets: 14, 9, 128, 128
+stand_03_0020
+	bounds: 980, 1326, 66, 83
+	offsets: 14, 9, 128, 128
+stand_03_0021
+	bounds: 864, 1053, 66, 83
+	offsets: 14, 9, 128, 128
+stand_03_0022
+	bounds: 540, 1220, 66, 83
+	offsets: 14, 9, 128, 128
+stand_03_0023
+	bounds: 911, 1223, 67, 83
+	offsets: 14, 9, 128, 128
+stand_03_0024
+	bounds: 152, 1111, 67, 84
+	offsets: 14, 8, 128, 128
+stand_03_0025
+	bounds: 254, 274, 67, 84
+	offsets: 14, 8, 128, 128
+stand_03_0026
+	bounds: 164, 681, 67, 84
+	offsets: 14, 8, 128, 128
+stand_03_0027
+	bounds: 663, 1477, 68, 84
+	offsets: 14, 8, 128, 128
+stand_03_0028
+	bounds: 941, 798, 68, 83
+	offsets: 14, 8, 128, 128
+stand_03_0029
+	bounds: 809, 320, 68, 83
+	offsets: 14, 8, 128, 128
+stand_03_0030
+	bounds: 1048, 1327, 68, 83
+	offsets: 14, 8, 128, 128
+stand_03_0031
+	bounds: 910, 1308, 68, 83
+	offsets: 14, 8, 128, 128
+stand_03_0032
+	bounds: 638, 802, 68, 83
+	offsets: 14, 8, 128, 128
+stand_03_0035
+	bounds: 273, 103, 68, 83
+	offsets: 14, 8, 128, 128
+stand_03_0002
+	bounds: 273, 103, 68, 83
+	offsets: 14, 8, 128, 128
+stand_03_0065
+	bounds: 273, 103, 68, 83
+	offsets: 14, 8, 128, 128
+stand_03_0036
+	bounds: 932, 1053, 68, 83
+	offsets: 14, 8, 128, 128
+stand_03_0064
+	bounds: 932, 1053, 68, 83
+	offsets: 14, 8, 128, 128
+stand_03_0037
+	bounds: 725, 568, 68, 83
+	offsets: 14, 8, 128, 128
+stand_03_0004
+	bounds: 725, 568, 68, 83
+	offsets: 14, 8, 128, 128
+stand_03_0063
+	bounds: 725, 568, 68, 83
+	offsets: 14, 8, 128, 128
+stand_03_0040
+	bounds: 656, 1563, 67, 84
+	offsets: 14, 8, 128, 128
+stand_03_0007
+	bounds: 656, 1563, 67, 84
+	offsets: 14, 8, 128, 128
+stand_03_0060
+	bounds: 656, 1563, 67, 84
+	offsets: 14, 8, 128, 128
+stand_03_0041
+	bounds: 253, 360, 67, 84
+	offsets: 14, 8, 128, 128
+stand_03_0059
+	bounds: 253, 360, 67, 84
+	offsets: 14, 8, 128, 128
+stand_03_0045
+	bounds: 821, 1393, 66, 83
+	offsets: 14, 9, 128, 128
+stand_03_0055
+	bounds: 821, 1393, 66, 83
+	offsets: 14, 9, 128, 128
+stand_03_0048
+	bounds: 628, 968, 66, 83
+	offsets: 14, 9, 128, 128
+stand_03_0015
+	bounds: 628, 968, 66, 83
+	offsets: 14, 9, 128, 128
+stand_03_0052
+	bounds: 628, 968, 66, 83
+	offsets: 14, 9, 128, 128
+stand_03_0049
+	bounds: 940, 883, 66, 83
+	offsets: 14, 9, 128, 128
+stand_03_0050
+	bounds: 842, 1308, 66, 83
+	offsets: 14, 9, 128, 128
+stand_03_0017
+	bounds: 842, 1308, 66, 83
+	offsets: 14, 9, 128, 128
+stand_03_0056
+	bounds: 1315, 1880, 66, 83
+	offsets: 14, 9, 128, 128
+stand_03_0011
+	bounds: 1315, 1880, 66, 83
+	offsets: 14, 9, 128, 128
+stand_03_0044
+	bounds: 1315, 1880, 66, 83
+	offsets: 14, 9, 128, 128
+stand_03_0057
+	bounds: 185, 251, 67, 84
+	offsets: 14, 8, 128, 128
+stand_03_0043
+	bounds: 185, 251, 67, 84
+	offsets: 14, 8, 128, 128
+stand_03_0061
+	bounds: 451, 1305, 68, 84
+	offsets: 14, 8, 128, 128
+stand_03_0006
+	bounds: 451, 1305, 68, 84
+	offsets: 14, 8, 128, 128
+stand_03_0039
+	bounds: 451, 1305, 68, 84
+	offsets: 14, 8, 128, 128
+stand_03_0066
+	bounds: 568, 797, 68, 83
+	offsets: 14, 8, 128, 128
+stand_04_0001
+	bounds: 1699, 620, 57, 75
+	offsets: 26, 14, 128, 128
+stand_04_0034
+	bounds: 1699, 620, 57, 75
+	offsets: 26, 14, 128, 128
+stand_04_0002
+	bounds: 1953, 617, 57, 75
+	offsets: 26, 14, 128, 128
+stand_04_0035
+	bounds: 1953, 617, 57, 75
+	offsets: 26, 14, 128, 128
+stand_04_0065
+	bounds: 1953, 617, 57, 75
+	offsets: 26, 14, 128, 128
+stand_04_0003
+	bounds: 1783, 423, 56, 75
+	offsets: 26, 14, 128, 128
+stand_04_0004
+	bounds: 1523, 740, 56, 75
+	offsets: 26, 14, 128, 128
+stand_04_0037
+	bounds: 1523, 740, 56, 75
+	offsets: 26, 14, 128, 128
+stand_04_0063
+	bounds: 1523, 740, 56, 75
+	offsets: 26, 14, 128, 128
+stand_04_0007
+	bounds: 1990, 862, 56, 76
+	offsets: 26, 14, 128, 128
+stand_04_0040
+	bounds: 1990, 862, 56, 76
+	offsets: 26, 14, 128, 128
+stand_04_0060
+	bounds: 1990, 862, 56, 76
+	offsets: 26, 14, 128, 128
+stand_04_0008
+	bounds: 1841, 470, 56, 76
+	offsets: 26, 14, 128, 128
+stand_04_0009
+	bounds: 1667, 500, 56, 76
+	offsets: 26, 14, 128, 128
+stand_04_0042
+	bounds: 1667, 500, 56, 76
+	offsets: 26, 14, 128, 128
+stand_04_0058
+	bounds: 1667, 500, 56, 76
+	offsets: 26, 14, 128, 128
+stand_04_0010
+	bounds: 1383, 1810, 55, 76
+	offsets: 26, 14, 128, 128
+stand_04_0012
+	bounds: 1474, 129, 55, 76
+	offsets: 26, 14, 128, 128
+stand_04_0014
+	bounds: 1899, 384, 55, 76
+	offsets: 26, 14, 128, 128
+stand_04_0047
+	bounds: 1899, 384, 55, 76
+	offsets: 26, 14, 128, 128
+stand_04_0053
+	bounds: 1899, 384, 55, 76
+	offsets: 26, 14, 128, 128
+stand_04_0015
+	bounds: 1413, 205, 55, 76
+	offsets: 26, 14, 128, 128
+stand_04_0048
+	bounds: 1413, 205, 55, 76
+	offsets: 26, 14, 128, 128
+stand_04_0052
+	bounds: 1413, 205, 55, 76
+	offsets: 26, 14, 128, 128
+stand_04_0017
+	bounds: 1496, 500, 55, 76
+	offsets: 26, 14, 128, 128
+stand_04_0050
+	bounds: 1496, 500, 55, 76
+	offsets: 26, 14, 128, 128
+stand_04_0018
+	bounds: 1496, 578, 55, 76
+	offsets: 26, 14, 128, 128
+stand_04_0019
+	bounds: 1957, 462, 55, 76
+	offsets: 26, 14, 128, 128
+stand_04_0020
+	bounds: 1470, 207, 55, 76
+	offsets: 26, 14, 128, 128
+stand_04_0021
+	bounds: 1439, 578, 55, 76
+	offsets: 26, 14, 128, 128
+stand_04_0022
+	bounds: 1610, 500, 55, 76
+	offsets: 26, 14, 128, 128
+stand_04_0023
+	bounds: 1383, 1732, 55, 76
+	offsets: 26, 14, 128, 128
+stand_04_0024
+	bounds: 1783, 500, 56, 76
+	offsets: 26, 14, 128, 128
+stand_04_0025
+	bounds: 1489, 51, 56, 76
+	offsets: 26, 14, 128, 128
+stand_04_0026
+	bounds: 1899, 462, 56, 76
+	offsets: 26, 14, 128, 128
+stand_04_0027
+	bounds: 1725, 464, 56, 76
+	offsets: 26, 14, 128, 128
+stand_04_0028
+	bounds: 1990, 940, 56, 76
+	offsets: 26, 14, 128, 128
+stand_04_0029
+	bounds: 1841, 393, 56, 75
+	offsets: 26, 14, 128, 128
+stand_04_0030
+	bounds: 1523, 663, 56, 75
+	offsets: 26, 14, 128, 128
+stand_04_0031
+	bounds: 1935, 540, 57, 75
+	offsets: 26, 14, 128, 128
+stand_04_0032
+	bounds: 1817, 578, 57, 75
+	offsets: 26, 14, 128, 128
+stand_04_0033
+	bounds: 1581, 656, 57, 75
+	offsets: 26, 14, 128, 128
+stand_04_0000
+	bounds: 1581, 656, 57, 75
+	offsets: 26, 14, 128, 128
+stand_04_0036
+	bounds: 952, 637, 57, 75
+	offsets: 26, 14, 128, 128
+stand_04_0064
+	bounds: 952, 637, 57, 75
+	offsets: 26, 14, 128, 128
+stand_04_0041
+	bounds: 1368, 1091, 56, 76
+	offsets: 26, 14, 128, 128
+stand_04_0059
+	bounds: 1368, 1091, 56, 76
+	offsets: 26, 14, 128, 128
+stand_04_0045
+	bounds: 1956, 384, 55, 76
+	offsets: 26, 14, 128, 128
+stand_04_0055
+	bounds: 1956, 384, 55, 76
+	offsets: 26, 14, 128, 128
+stand_04_0049
+	bounds: 1651, 886, 55, 76
+	offsets: 26, 14, 128, 128
+stand_04_0051
+	bounds: 1439, 500, 55, 76
+	offsets: 26, 14, 128, 128
+stand_04_0016
+	bounds: 1439, 500, 55, 76
+	offsets: 26, 14, 128, 128
+stand_04_0054
+	bounds: 1466, 285, 55, 76
+	offsets: 26, 14, 128, 128
+stand_04_0013
+	bounds: 1466, 285, 55, 76
+	offsets: 26, 14, 128, 128
+stand_04_0046
+	bounds: 1466, 285, 55, 76
+	offsets: 26, 14, 128, 128
+stand_04_0056
+	bounds: 1553, 500, 55, 76
+	offsets: 26, 14, 128, 128
+stand_04_0011
+	bounds: 1553, 500, 55, 76
+	offsets: 26, 14, 128, 128
+stand_04_0044
+	bounds: 1553, 500, 55, 76
+	offsets: 26, 14, 128, 128
+stand_04_0057
+	bounds: 1383, 1888, 55, 76
+	offsets: 26, 14, 128, 128
+stand_04_0043
+	bounds: 1383, 1888, 55, 76
+	offsets: 26, 14, 128, 128
+stand_04_0061
+	bounds: 1725, 542, 56, 76
+	offsets: 26, 14, 128, 128
+stand_04_0006
+	bounds: 1725, 542, 56, 76
+	offsets: 26, 14, 128, 128
+stand_04_0039
+	bounds: 1725, 542, 56, 76
+	offsets: 26, 14, 128, 128
+stand_04_0062
+	bounds: 1240, 362, 56, 75
+	offsets: 26, 14, 128, 128
+stand_04_0005
+	bounds: 1240, 362, 56, 75
+	offsets: 26, 14, 128, 128
+stand_04_0038
+	bounds: 1240, 362, 56, 75
+	offsets: 26, 14, 128, 128
+stand_04_0066
+	bounds: 1758, 620, 57, 75
+	offsets: 26, 14, 128, 128
 stand_05_0000
-	bounds: 190, 1728, 76, 73
-	offsets: 29, 16, 128, 128
-stand_05_0033
-	bounds: 190, 1728, 76, 73
-	offsets: 29, 16, 128, 128
-strike_05_0001
-	bounds: 62, 454, 80, 73
-	offsets: 28, 16, 128, 128
-strike_05_0002
-	bounds: 978, 1825, 76, 73
-	offsets: 27, 16, 128, 128
-strike_05_0003
-	bounds: 1825, 1511, 66, 74
+	bounds: 1264, 1483, 80, 73
 	offsets: 25, 16, 128, 128
-strike_05_0004
-	bounds: 1616, 1262, 59, 79
-	offsets: 24, 16, 128, 128
-strike_05_0005
-	bounds: 1843, 1742, 72, 73
-	offsets: 6, 16, 128, 128
-strike_05_0006
-	bounds: 654, 1346, 73, 73
-	offsets: 0, 16, 128, 128
-strike_05_0007
-	bounds: 607, 1580, 73, 73
-	offsets: 0, 16, 128, 128
-strike_05_0008
-	bounds: 790, 1497, 73, 73
-	offsets: 0, 16, 128, 128
-strike_05_0009
-	bounds: 76, 1240, 63, 84
+stand_05_0033
+	bounds: 1264, 1483, 80, 73
+	offsets: 25, 16, 128, 128
+stand_05_0003
+	bounds: 721, 169, 80, 73
+	offsets: 25, 16, 128, 128
+stand_05_0005
+	bounds: 1880, 1425, 79, 73
+	offsets: 26, 16, 128, 128
+stand_05_0038
+	bounds: 1880, 1425, 79, 73
+	offsets: 26, 16, 128, 128
+stand_05_0062
+	bounds: 1880, 1425, 79, 73
+	offsets: 26, 16, 128, 128
+stand_05_0008
+	bounds: 718, 19, 80, 73
+	offsets: 26, 16, 128, 128
+stand_05_0010
+	bounds: 1800, 1192, 79, 73
 	offsets: 27, 16, 128, 128
-strike_05_0010
-	bounds: 1193, 1973, 81, 73
-	offsets: 33, 16, 128, 128
-strike_05_0011
-	bounds: 643, 346, 52, 73
-	offsets: 38, 16, 128, 128
-strike_05_0012
-	bounds: 885, 719, 51, 73
-	offsets: 36, 16, 128, 128
-strike_05_0013
-	bounds: 724, 1892, 49, 74
-	offsets: 35, 15, 128, 128
-strike_05_0014
-	bounds: 1996, 1265, 49, 74
-	offsets: 34, 15, 128, 128
-strike_05_0015
-	bounds: 1996, 1341, 49, 75
-	offsets: 34, 14, 128, 128
-strike_05_0016
-	bounds: 531, 646, 51, 75
-	offsets: 33, 14, 128, 128
-strike_05_0017
-	bounds: 421, 646, 52, 75
-	offsets: 34, 14, 128, 128
-strike_05_0018
-	bounds: 1952, 1037, 55, 74
-	offsets: 34, 15, 128, 128
-strike_05_0019
-	bounds: 1213, 897, 61, 74
-	offsets: 32, 15, 128, 128
-strike_05_0020
-	bounds: 728, 1181, 67, 73
-	offsets: 31, 16, 128, 128
-strike_05_0021
-	bounds: 981, 1525, 72, 73
-	offsets: 30, 16, 128, 128
-strike_06_0000
-	bounds: 306, 786, 54, 81
-	offsets: 29, 8, 128, 128
+stand_05_0011
+	bounds: 796, 651, 79, 73
+	offsets: 27, 16, 128, 128
+stand_05_0044
+	bounds: 796, 651, 79, 73
+	offsets: 27, 16, 128, 128
+stand_05_0056
+	bounds: 796, 651, 79, 73
+	offsets: 27, 16, 128, 128
+stand_05_0012
+	bounds: 1560, 1201, 79, 73
+	offsets: 27, 16, 128, 128
+stand_05_0013
+	bounds: 1642, 1273, 79, 73
+	offsets: 27, 16, 128, 128
+stand_05_0046
+	bounds: 1642, 1273, 79, 73
+	offsets: 27, 16, 128, 128
+stand_05_0054
+	bounds: 1642, 1273, 79, 73
+	offsets: 27, 16, 128, 128
+stand_05_0016
+	bounds: 718, 94, 80, 73
+	offsets: 27, 16, 128, 128
+stand_05_0051
+	bounds: 718, 94, 80, 73
+	offsets: 27, 16, 128, 128
+stand_05_0018
+	bounds: 1559, 1501, 80, 73
+	offsets: 27, 16, 128, 128
+stand_05_0019
+	bounds: 1960, 1245, 80, 73
+	offsets: 27, 16, 128, 128
+stand_05_0020
+	bounds: 1345, 1244, 79, 73
+	offsets: 27, 16, 128, 128
+stand_05_0021
+	bounds: 1880, 1500, 79, 73
+	offsets: 27, 16, 128, 128
+stand_05_0022
+	bounds: 1641, 1198, 79, 73
+	offsets: 27, 16, 128, 128
+stand_05_0023
+	bounds: 1960, 1170, 79, 73
+	offsets: 27, 16, 128, 128
+stand_05_0024
+	bounds: 568, 647, 80, 73
+	offsets: 26, 16, 128, 128
+stand_05_0025
+	bounds: 1798, 1425, 80, 73
+	offsets: 26, 16, 128, 128
+stand_05_0026
+	bounds: 1556, 1576, 80, 73
+	offsets: 26, 16, 128, 128
+stand_05_0027
+	bounds: 1345, 1169, 79, 73
+	offsets: 26, 16, 128, 128
+stand_05_0028
+	bounds: 1958, 1095, 79, 73
+	offsets: 26, 16, 128, 128
+stand_05_0029
+	bounds: 800, 84, 79, 73
+	offsets: 26, 16, 128, 128
+stand_05_0030
+	bounds: 1878, 1350, 80, 73
+	offsets: 25, 16, 128, 128
+stand_05_0031
+	bounds: 1876, 1575, 80, 73
+	offsets: 25, 16, 128, 128
+stand_05_0032
+	bounds: 1960, 1320, 80, 73
+	offsets: 25, 16, 128, 128
+stand_05_0034
+	bounds: 920, 1664, 80, 73
+	offsets: 25, 16, 128, 128
+stand_05_0001
+	bounds: 920, 1664, 80, 73
+	offsets: 25, 16, 128, 128
+stand_05_0036
+	bounds: 1798, 1500, 80, 73
+	offsets: 25, 16, 128, 128
+stand_05_0064
+	bounds: 1798, 1500, 80, 73
+	offsets: 25, 16, 128, 128
+stand_05_0037
+	bounds: 483, 97, 79, 73
+	offsets: 26, 16, 128, 128
+stand_05_0004
+	bounds: 483, 97, 79, 73
+	offsets: 26, 16, 128, 128
+stand_05_0063
+	bounds: 483, 97, 79, 73
+	offsets: 26, 16, 128, 128
+stand_05_0039
+	bounds: 1961, 1470, 79, 73
+	offsets: 26, 16, 128, 128
+stand_05_0006
+	bounds: 1961, 1470, 79, 73
+	offsets: 26, 16, 128, 128
+stand_05_0061
+	bounds: 1961, 1470, 79, 73
+	offsets: 26, 16, 128, 128
+stand_05_0041
+	bounds: 1560, 1276, 80, 73
+	offsets: 26, 16, 128, 128
+stand_05_0059
+	bounds: 1560, 1276, 80, 73
+	offsets: 26, 16, 128, 128
+stand_05_0047
+	bounds: 1002, 1664, 80, 73
+	offsets: 27, 16, 128, 128
+stand_05_0014
+	bounds: 1002, 1664, 80, 73
+	offsets: 27, 16, 128, 128
+stand_05_0053
+	bounds: 1002, 1664, 80, 73
+	offsets: 27, 16, 128, 128
+stand_05_0049
+	bounds: 1560, 1351, 80, 73
+	offsets: 27, 16, 128, 128
+stand_05_0050
+	bounds: 734, 244, 80, 73
+	offsets: 27, 16, 128, 128
+stand_05_0017
+	bounds: 734, 244, 80, 73
+	offsets: 27, 16, 128, 128
+stand_05_0052
+	bounds: 1638, 1576, 80, 73
+	offsets: 27, 16, 128, 128
+stand_05_0015
+	bounds: 1638, 1576, 80, 73
+	offsets: 27, 16, 128, 128
+stand_05_0048
+	bounds: 1638, 1576, 80, 73
+	offsets: 27, 16, 128, 128
+stand_05_0055
+	bounds: 881, 84, 79, 73
+	offsets: 27, 16, 128, 128
+stand_05_0045
+	bounds: 881, 84, 79, 73
+	offsets: 27, 16, 128, 128
+stand_05_0057
+	bounds: 1961, 1395, 79, 73
+	offsets: 27, 16, 128, 128
+stand_05_0043
+	bounds: 1961, 1395, 79, 73
+	offsets: 27, 16, 128, 128
+stand_05_0058
+	bounds: 73, 1017, 80, 73
+	offsets: 26, 16, 128, 128
+stand_05_0009
+	bounds: 73, 1017, 80, 73
+	offsets: 26, 16, 128, 128
+stand_05_0042
+	bounds: 73, 1017, 80, 73
+	offsets: 26, 16, 128, 128
+stand_05_0060
+	bounds: 1642, 1348, 79, 73
+	offsets: 26, 16, 128, 128
+stand_05_0007
+	bounds: 1642, 1348, 79, 73
+	offsets: 26, 16, 128, 128
+stand_05_0040
+	bounds: 1642, 1348, 79, 73
+	offsets: 26, 16, 128, 128
+stand_05_0065
+	bounds: 1794, 1575, 80, 73
+	offsets: 25, 16, 128, 128
+stand_05_0002
+	bounds: 1794, 1575, 80, 73
+	offsets: 25, 16, 128, 128
+stand_05_0035
+	bounds: 1794, 1575, 80, 73
+	offsets: 25, 16, 128, 128
+stand_05_0066
+	bounds: 1878, 1275, 80, 73
+	offsets: 25, 16, 128, 128
 stand_06_0000
-	bounds: 306, 786, 54, 81
+	bounds: 1156, 279, 62, 81
 	offsets: 29, 8, 128, 128
 stand_06_0033
-	bounds: 306, 786, 54, 81
+	bounds: 1156, 279, 62, 81
+	offsets: 29, 8, 128, 128
+stand_06_0001
+	bounds: 1243, 677, 62, 81
+	offsets: 29, 8, 128, 128
+stand_06_0034
+	bounds: 1243, 677, 62, 81
+	offsets: 29, 8, 128, 128
+stand_06_0003
+	bounds: 1116, 23, 61, 81
+	offsets: 29, 8, 128, 128
+stand_06_0004
+	bounds: 1238, 914, 61, 81
+	offsets: 29, 8, 128, 128
+stand_06_0037
+	bounds: 1238, 914, 61, 81
+	offsets: 29, 8, 128, 128
+stand_06_0063
+	bounds: 1238, 914, 61, 81
+	offsets: 29, 8, 128, 128
+stand_06_0008
+	bounds: 1179, 30, 61, 81
+	offsets: 29, 8, 128, 128
+stand_06_0009
+	bounds: 1310, 594, 60, 81
+	offsets: 29, 8, 128, 128
+stand_06_0042
+	bounds: 1310, 594, 60, 81
+	offsets: 29, 8, 128, 128
+stand_06_0058
+	bounds: 1310, 594, 60, 81
+	offsets: 29, 8, 128, 128
+stand_06_0010
+	bounds: 1306, 31, 60, 80
+	offsets: 29, 8, 128, 128
+stand_06_0012
+	bounds: 394, 974, 60, 81
+	offsets: 29, 7, 128, 128
+stand_06_0014
+	bounds: 1968, 777, 60, 81
+	offsets: 29, 7, 128, 128
+stand_06_0047
+	bounds: 1968, 777, 60, 81
+	offsets: 29, 7, 128, 128
+stand_06_0053
+	bounds: 1968, 777, 60, 81
+	offsets: 29, 7, 128, 128
+stand_06_0017
+	bounds: 1499, 1231, 59, 81
+	offsets: 29, 7, 128, 128
+stand_06_0050
+	bounds: 1499, 1231, 59, 81
+	offsets: 29, 7, 128, 128
+stand_06_0018
+	bounds: 1225, 113, 59, 81
+	offsets: 29, 7, 128, 128
+stand_06_0019
+	bounds: 1033, 261, 59, 81
+	offsets: 29, 7, 128, 128
+stand_06_0020
+	bounds: 1286, 113, 60, 81
+	offsets: 29, 7, 128, 128
+stand_06_0021
+	bounds: 1163, 113, 60, 81
+	offsets: 29, 7, 128, 128
+stand_06_0022
+	bounds: 1307, 756, 60, 81
+	offsets: 29, 7, 128, 128
+stand_06_0023
+	bounds: 1344, 280, 60, 80
+	offsets: 29, 8, 128, 128
+stand_06_0024
+	bounds: 1094, 261, 60, 81
+	offsets: 29, 8, 128, 128
+stand_06_0025
+	bounds: 1494, 1558, 60, 81
+	offsets: 29, 8, 128, 128
+stand_06_0026
+	bounds: 1220, 279, 61, 81
+	offsets: 29, 8, 128, 128
+stand_06_0027
+	bounds: 1369, 758, 61, 81
+	offsets: 29, 8, 128, 128
+stand_06_0028
+	bounds: 1286, 196, 61, 81
+	offsets: 29, 8, 128, 128
+stand_06_0029
+	bounds: 1159, 196, 61, 81
+	offsets: 29, 8, 128, 128
+stand_06_0030
+	bounds: 1308, 841, 61, 81
+	offsets: 29, 8, 128, 128
+stand_06_0031
+	bounds: 1222, 196, 62, 81
+	offsets: 29, 8, 128, 128
+stand_06_0032
+	bounds: 1708, 937, 62, 81
+	offsets: 29, 8, 128, 128
+stand_06_0035
+	bounds: 1206, 1235, 62, 81
+	offsets: 29, 8, 128, 128
+stand_06_0002
+	bounds: 1206, 1235, 62, 81
+	offsets: 29, 8, 128, 128
+stand_06_0065
+	bounds: 1206, 1235, 62, 81
+	offsets: 29, 8, 128, 128
+stand_06_0038
+	bounds: 991, 22, 61, 81
+	offsets: 29, 8, 128, 128
+stand_06_0005
+	bounds: 991, 22, 61, 81
+	offsets: 29, 8, 128, 128
+stand_06_0062
+	bounds: 991, 22, 61, 81
+	offsets: 29, 8, 128, 128
+stand_06_0040
+	bounds: 1967, 694, 61, 81
+	offsets: 29, 8, 128, 128
+stand_06_0007
+	bounds: 1967, 694, 61, 81
+	offsets: 29, 8, 128, 128
+stand_06_0060
+	bounds: 1967, 694, 61, 81
+	offsets: 29, 8, 128, 128
+stand_06_0043
+	bounds: 929, 2, 60, 80
+	offsets: 29, 8, 128, 128
+stand_06_0057
+	bounds: 929, 2, 60, 80
+	offsets: 29, 8, 128, 128
+stand_06_0045
+	bounds: 1054, 22, 60, 81
+	offsets: 29, 7, 128, 128
+stand_06_0055
+	bounds: 1054, 22, 60, 81
+	offsets: 29, 7, 128, 128
+stand_06_0046
+	bounds: 608, 1304, 60, 81
+	offsets: 29, 7, 128, 128
+stand_06_0013
+	bounds: 608, 1304, 60, 81
+	offsets: 29, 7, 128, 128
+stand_06_0054
+	bounds: 608, 1304, 60, 81
+	offsets: 29, 7, 128, 128
+stand_06_0048
+	bounds: 1499, 1148, 59, 81
+	offsets: 29, 7, 128, 128
+stand_06_0015
+	bounds: 1499, 1148, 59, 81
+	offsets: 29, 7, 128, 128
+stand_06_0052
+	bounds: 1499, 1148, 59, 81
+	offsets: 29, 7, 128, 128
+stand_06_0049
+	bounds: 1283, 279, 59, 81
+	offsets: 29, 7, 128, 128
+stand_06_0051
+	bounds: 1499, 1314, 59, 81
+	offsets: 29, 7, 128, 128
+stand_06_0016
+	bounds: 1499, 1314, 59, 81
+	offsets: 29, 7, 128, 128
+stand_06_0056
+	bounds: 1791, 1093, 60, 81
+	offsets: 29, 7, 128, 128
+stand_06_0011
+	bounds: 1791, 1093, 60, 81
+	offsets: 29, 7, 128, 128
+stand_06_0044
+	bounds: 1791, 1093, 60, 81
+	offsets: 29, 7, 128, 128
+stand_06_0059
+	bounds: 737, 400, 61, 81
+	offsets: 29, 8, 128, 128
+stand_06_0041
+	bounds: 737, 400, 61, 81
+	offsets: 29, 8, 128, 128
+stand_06_0061
+	bounds: 1709, 854, 61, 81
+	offsets: 29, 8, 128, 128
+stand_06_0006
+	bounds: 1709, 854, 61, 81
+	offsets: 29, 8, 128, 128
+stand_06_0039
+	bounds: 1709, 854, 61, 81
+	offsets: 29, 8, 128, 128
+stand_06_0064
+	bounds: 1497, 1065, 61, 81
+	offsets: 29, 8, 128, 128
+stand_06_0036
+	bounds: 1497, 1065, 61, 81
+	offsets: 29, 8, 128, 128
+stand_06_0066
+	bounds: 1301, 924, 62, 81
+	offsets: 29, 8, 128, 128
+stand_07_0000
+	bounds: 796, 726, 76, 77
+	offsets: 12, 12, 128, 128
+stand_07_0033
+	bounds: 796, 726, 76, 77
+	offsets: 12, 12, 128, 128
+stand_07_0001
+	bounds: 1961, 1545, 76, 77
+	offsets: 12, 12, 128, 128
+stand_07_0034
+	bounds: 1961, 1545, 76, 77
+	offsets: 12, 12, 128, 128
+stand_07_0003
+	bounds: 1166, 681, 75, 77
+	offsets: 12, 12, 128, 128
+stand_07_0004
+	bounds: 956, 186, 75, 77
+	offsets: 12, 12, 128, 128
+stand_07_0037
+	bounds: 956, 186, 75, 77
+	offsets: 12, 12, 128, 128
+stand_07_0063
+	bounds: 956, 186, 75, 77
+	offsets: 12, 12, 128, 128
+stand_07_0005
+	bounds: 1011, 663, 75, 77
+	offsets: 12, 12, 128, 128
+stand_07_0038
+	bounds: 1011, 663, 75, 77
+	offsets: 12, 12, 128, 128
+stand_07_0062
+	bounds: 1011, 663, 75, 77
+	offsets: 12, 12, 128, 128
+stand_07_0008
+	bounds: 1291, 1090, 75, 77
+	offsets: 12, 12, 128, 128
+stand_07_0009
+	bounds: 1714, 1020, 75, 76
+	offsets: 12, 13, 128, 128
+stand_07_0042
+	bounds: 1714, 1020, 75, 76
+	offsets: 12, 13, 128, 128
+stand_07_0058
+	bounds: 1714, 1020, 75, 76
+	offsets: 12, 13, 128, 128
+stand_07_0010
+	bounds: 1720, 1492, 76, 76
+	offsets: 11, 13, 128, 128
+stand_07_0012
+	bounds: 1722, 1176, 75, 76
+	offsets: 11, 13, 128, 128
+stand_07_0013
+	bounds: 469, 1649, 75, 76
+	offsets: 11, 13, 128, 128
+stand_07_0046
+	bounds: 469, 1649, 75, 76
+	offsets: 11, 13, 128, 128
+stand_07_0054
+	bounds: 469, 1649, 75, 76
+	offsets: 11, 13, 128, 128
+stand_07_0017
+	bounds: 1714, 1098, 75, 76
+	offsets: 11, 13, 128, 128
+stand_07_0050
+	bounds: 1714, 1098, 75, 76
+	offsets: 11, 13, 128, 128
+stand_07_0018
+	bounds: 1011, 585, 75, 76
+	offsets: 11, 13, 128, 128
+stand_07_0019
+	bounds: 1365, 1007, 75, 76
+	offsets: 11, 13, 128, 128
+stand_07_0020
+	bounds: 1881, 1122, 75, 76
+	offsets: 11, 13, 128, 128
+stand_07_0021
+	bounds: 1442, 987, 75, 76
+	offsets: 11, 13, 128, 128
+stand_07_0022
+	bounds: 1637, 1041, 75, 76
+	offsets: 11, 13, 128, 128
+stand_07_0023
+	bounds: 1723, 1254, 75, 76
+	offsets: 11, 13, 128, 128
+stand_07_0024
+	bounds: 1371, 851, 75, 76
+	offsets: 12, 13, 128, 128
+stand_07_0025
+	bounds: 1033, 424, 75, 77
+	offsets: 12, 12, 128, 128
+stand_07_0026
+	bounds: 803, 159, 75, 77
+	offsets: 12, 12, 128, 128
+stand_07_0027
+	bounds: 1156, 1076, 75, 77
+	offsets: 12, 12, 128, 128
+stand_07_0028
+	bounds: 955, 344, 75, 77
+	offsets: 12, 12, 128, 128
+stand_07_0029
+	bounds: 1166, 602, 75, 77
+	offsets: 12, 12, 128, 128
+stand_07_0030
+	bounds: 1637, 1119, 75, 77
+	offsets: 12, 12, 128, 128
+stand_07_0031
+	bounds: 1088, 660, 76, 77
+	offsets: 12, 12, 128, 128
+stand_07_0032
+	bounds: 1800, 1267, 76, 77
+	offsets: 12, 12, 128, 128
+stand_07_0036
+	bounds: 1187, 1480, 75, 77
+	offsets: 12, 12, 128, 128
+stand_07_0064
+	bounds: 1187, 1480, 75, 77
+	offsets: 12, 12, 128, 128
+stand_07_0039
+	bounds: 1011, 742, 75, 77
+	offsets: 12, 12, 128, 128
+stand_07_0006
+	bounds: 1011, 742, 75, 77
+	offsets: 12, 12, 128, 128
+stand_07_0061
+	bounds: 1011, 742, 75, 77
+	offsets: 12, 12, 128, 128
+stand_07_0041
+	bounds: 1723, 1332, 75, 77
+	offsets: 12, 12, 128, 128
+stand_07_0059
+	bounds: 1723, 1332, 75, 77
+	offsets: 12, 12, 128, 128
+stand_07_0044
+	bounds: 1422, 1319, 75, 76
+	offsets: 11, 13, 128, 128
+stand_07_0011
+	bounds: 1422, 1319, 75, 76
+	offsets: 11, 13, 128, 128
+stand_07_0056
+	bounds: 1422, 1319, 75, 76
+	offsets: 11, 13, 128, 128
+stand_07_0045
+	bounds: 1365, 929, 75, 76
+	offsets: 11, 13, 128, 128
+stand_07_0055
+	bounds: 1365, 929, 75, 76
+	offsets: 11, 13, 128, 128
+stand_07_0047
+	bounds: 215, 1650, 75, 76
+	offsets: 11, 13, 128, 128
+stand_07_0014
+	bounds: 215, 1650, 75, 76
+	offsets: 11, 13, 128, 128
+stand_07_0053
+	bounds: 215, 1650, 75, 76
+	offsets: 11, 13, 128, 128
+stand_07_0049
+	bounds: 956, 423, 75, 76
+	offsets: 11, 13, 128, 128
+stand_07_0051
+	bounds: 1560, 1123, 75, 76
+	offsets: 11, 13, 128, 128
+stand_07_0016
+	bounds: 1560, 1123, 75, 76
+	offsets: 11, 13, 128, 128
+stand_07_0052
+	bounds: 564, 95, 75, 76
+	offsets: 11, 13, 128, 128
+stand_07_0015
+	bounds: 564, 95, 75, 76
+	offsets: 11, 13, 128, 128
+stand_07_0048
+	bounds: 564, 95, 75, 76
+	offsets: 11, 13, 128, 128
+stand_07_0057
+	bounds: 1088, 582, 76, 76
+	offsets: 11, 13, 128, 128
+stand_07_0043
+	bounds: 1088, 582, 76, 76
+	offsets: 11, 13, 128, 128
+stand_07_0060
+	bounds: 75, 1092, 75, 77
+	offsets: 12, 12, 128, 128
+stand_07_0007
+	bounds: 75, 1092, 75, 77
+	offsets: 12, 12, 128, 128
+stand_07_0040
+	bounds: 75, 1092, 75, 77
+	offsets: 12, 12, 128, 128
+stand_07_0065
+	bounds: 842, 1643, 76, 77
+	offsets: 12, 12, 128, 128
+stand_07_0002
+	bounds: 842, 1643, 76, 77
+	offsets: 12, 12, 128, 128
+stand_07_0035
+	bounds: 842, 1643, 76, 77
+	offsets: 12, 12, 128, 128
+stand_07_0066
+	bounds: 1800, 1346, 76, 77
+	offsets: 12, 12, 128, 128
+strike_00_0000
+	bounds: 1023, 1816, 88, 75
+	offsets: 16, 16, 128, 128
+strike_00_0001
+	bounds: 672, 1808, 89, 75
+	offsets: 16, 16, 128, 128
+strike_00_0002
+	bounds: 1838, 1892, 84, 74
+	offsets: 17, 16, 128, 128
+strike_00_0003
+	bounds: 1970, 1624, 76, 83
+	offsets: 17, 16, 128, 128
+strike_00_0004
+	bounds: 500, 2, 70, 80
+	offsets: 18, 16, 128, 128
+strike_00_0005
+	bounds: 877, 651, 66, 73
+	offsets: 18, 16, 128, 128
+strike_00_0006
+	bounds: 1422, 363, 61, 72
+	offsets: 19, 16, 128, 128
+strike_00_0007
+	bounds: 1893, 625, 58, 74
+	offsets: 19, 14, 128, 128
+strike_00_0008
+	bounds: 1233, 1076, 56, 77
+	offsets: 19, 11, 128, 128
+strike_00_0009
+	bounds: 2, 654, 74, 92
+	offsets: 17, 16, 128, 128
+strike_00_0010
+	bounds: 480, 731, 86, 76
+	offsets: 16, 16, 128, 128
+strike_00_0011
+	bounds: 1032, 503, 77, 77
+	offsets: 13, 16, 128, 128
+strike_00_0012
+	bounds: 956, 265, 75, 77
+	offsets: 13, 16, 128, 128
+strike_00_0013
+	bounds: 1270, 1404, 74, 77
+	offsets: 13, 16, 128, 128
+strike_00_0014
+	bounds: 1346, 1319, 74, 77
+	offsets: 13, 16, 128, 128
+strike_00_0015
+	bounds: 1270, 1325, 74, 77
+	offsets: 14, 16, 128, 128
+strike_00_0016
+	bounds: 1194, 1318, 74, 77
+	offsets: 15, 16, 128, 128
+strike_00_0017
+	bounds: 1560, 1045, 75, 76
+	offsets: 16, 16, 128, 128
+strike_00_0018
+	bounds: 716, 653, 78, 76
+	offsets: 16, 16, 128, 128
+strike_00_0019
+	bounds: 639, 177, 80, 76
+	offsets: 16, 16, 128, 128
+strike_00_0020
+	bounds: 564, 410, 83, 76
+	offsets: 16, 16, 128, 128
+strike_00_0021
+	bounds: 185, 93, 86, 75
+	offsets: 16, 16, 128, 128
+strike_01_0000
+	bounds: 1088, 739, 75, 82
+	offsets: 26, 9, 128, 128
+strike_01_0001
+	bounds: 560, 173, 77, 80
+	offsets: 25, 11, 128, 128
+strike_01_0002
+	bounds: 1418, 1641, 79, 76
+	offsets: 24, 16, 128, 128
+strike_01_0003
+	bounds: 567, 569, 81, 76
+	offsets: 23, 16, 128, 128
+strike_01_0004
+	bounds: 608, 1134, 86, 83
+	offsets: 19, 16, 128, 128
+strike_01_0005
+	bounds: 93, 1962, 101, 84
+	offsets: 4, 16, 128, 128
+strike_01_0006
+	bounds: 301, 1968, 105, 78
+	offsets: 0, 16, 128, 128
+strike_01_0007
+	bounds: 515, 1969, 105, 77
+	offsets: 0, 16, 128, 128
+strike_01_0008
+	bounds: 408, 1969, 105, 77
+	offsets: 0, 16, 128, 128
+strike_01_0009
+	bounds: 783, 1052, 79, 79
+	offsets: 24, 16, 128, 128
+strike_01_0010
+	bounds: 1426, 1161, 71, 77
+	offsets: 28, 13, 128, 128
+strike_01_0011
+	bounds: 887, 1478, 71, 78
+	offsets: 28, 10, 128, 128
+strike_01_0012
+	bounds: 1165, 760, 72, 77
+	offsets: 27, 11, 128, 128
+strike_01_0013
+	bounds: 1160, 997, 73, 77
+	offsets: 26, 11, 128, 128
+strike_01_0014
+	bounds: 1346, 1398, 74, 77
+	offsets: 25, 11, 128, 128
+strike_01_0015
+	bounds: 811, 1563, 74, 78
+	offsets: 25, 11, 128, 128
+strike_01_0016
+	bounds: 881, 489, 73, 79
+	offsets: 26, 10, 128, 128
+strike_01_0017
+	bounds: 1723, 1411, 73, 79
+	offsets: 26, 10, 128, 128
+strike_01_0018
+	bounds: 1113, 1561, 72, 81
+	offsets: 27, 9, 128, 128
+strike_01_0019
+	bounds: 1048, 1243, 71, 82
+	offsets: 28, 8, 128, 128
+strike_01_0020
+	bounds: 889, 1393, 72, 83
+	offsets: 27, 8, 128, 128
+strike_01_0021
+	bounds: 323, 290, 74, 83
+	offsets: 26, 8, 128, 128
+strike_02_0000
+	bounds: 503, 1563, 86, 84
+	offsets: 14, 7, 128, 128
+strike_02_0001
+	bounds: 1723, 1806, 90, 84
+	offsets: 8, 7, 128, 128
+strike_02_0002
+	bounds: 2, 295, 93, 85
+	offsets: 5, 7, 128, 128
+strike_02_0003
+	bounds: 1440, 1719, 88, 86
+	offsets: 10, 7, 128, 128
+strike_02_0004
+	bounds: 2, 1848, 80, 100
+	offsets: 18, 8, 128, 128
+strike_02_0005
+	bounds: 2, 1743, 75, 103
+	offsets: 23, 8, 128, 128
+strike_02_0006
+	bounds: 2, 1137, 71, 96
+	offsets: 27, 9, 128, 128
+strike_02_0007
+	bounds: 76, 1256, 70, 92
+	offsets: 28, 9, 128, 128
+strike_02_0008
+	bounds: 205, 1468, 68, 89
+	offsets: 30, 9, 128, 128
+strike_02_0009
+	bounds: 2, 1950, 89, 96
+	offsets: 9, 7, 128, 128
+strike_02_0010
+	bounds: 1221, 1881, 92, 82
+	offsets: 10, 8, 128, 128
+strike_02_0011
+	bounds: 796, 489, 83, 79
+	offsets: 20, 9, 128, 128
+strike_02_0012
+	bounds: 394, 643, 83, 79
+	offsets: 20, 9, 128, 128
+strike_02_0013
+	bounds: 479, 416, 83, 79
+	offsets: 20, 9, 128, 128
+strike_02_0014
+	bounds: 795, 570, 83, 79
+	offsets: 20, 9, 128, 128
+strike_02_0015
+	bounds: 456, 1052, 83, 80
+	offsets: 21, 9, 128, 128
+strike_02_0016
+	bounds: 400, 224, 81, 81
+	offsets: 22, 8, 128, 128
+strike_02_0017
+	bounds: 395, 560, 81, 81
+	offsets: 22, 8, 128, 128
+strike_02_0018
+	bounds: 398, 390, 79, 83
+	offsets: 23, 7, 128, 128
+strike_02_0019
+	bounds: 396, 475, 79, 83
+	offsets: 23, 7, 128, 128
+strike_02_0020
+	bounds: 668, 1391, 79, 84
+	offsets: 22, 7, 128, 128
+strike_02_0021
+	bounds: 221, 1044, 82, 84
+	offsets: 18, 7, 128, 128
+strike_03_0000
+	bounds: 413, 139, 68, 83
+	offsets: 14, 8, 128, 128
+strike_03_0001
+	bounds: 541, 1135, 65, 83
+	offsets: 15, 8, 128, 128
+strike_03_0002
+	bounds: 1978, 1795, 68, 90
+	offsets: 14, 8, 128, 128
+strike_03_0003
+	bounds: 2, 1432, 68, 99
+	offsets: 14, 9, 128, 128
+strike_03_0004
+	bounds: 2, 1039, 69, 96
+	offsets: 14, 9, 128, 128
+strike_03_0005
+	bounds: 278, 1389, 83, 85
+	offsets: 13, 10, 128, 128
+strike_03_0006
+	bounds: 1125, 1882, 94, 81
+	offsets: 12, 10, 128, 128
+strike_03_0007
+	bounds: 1838, 1968, 96, 78
+	offsets: 12, 10, 128, 128
+strike_03_0008
+	bounds: 1640, 1968, 98, 78
+	offsets: 12, 10, 128, 128
+strike_03_0009
+	bounds: 2, 1533, 67, 107
+	offsets: 14, 8, 128, 128
+strike_03_0010
+	bounds: 155, 1025, 64, 84
+	offsets: 14, 8, 128, 128
+strike_03_0011
+	bounds: 1815, 1806, 68, 84
+	offsets: 18, 9, 128, 128
+strike_03_0012
+	bounds: 221, 1130, 69, 84
+	offsets: 18, 9, 128, 128
+strike_03_0013
+	bounds: 749, 1391, 70, 84
+	offsets: 18, 9, 128, 128
+strike_03_0014
+	bounds: 238, 532, 70, 84
+	offsets: 18, 9, 128, 128
+strike_03_0015
+	bounds: 1975, 1709, 71, 84
+	offsets: 18, 9, 128, 128
+strike_03_0016
+	bounds: 275, 1476, 72, 85
+	offsets: 17, 8, 128, 128
+strike_03_0017
+	bounds: 95, 423, 71, 84
+	offsets: 17, 8, 128, 128
+strike_03_0018
+	bounds: 94, 509, 72, 84
+	offsets: 16, 8, 128, 128
+strike_03_0019
+	bounds: 240, 446, 71, 84
+	offsets: 15, 8, 128, 128
+strike_03_0020
+	bounds: 168, 423, 70, 84
+	offsets: 15, 8, 128, 128
+strike_03_0021
+	bounds: 76, 1171, 70, 83
+	offsets: 14, 8, 128, 128
+strike_04_0000
+	bounds: 1876, 548, 57, 75
+	offsets: 26, 14, 128, 128
+strike_04_0001
+	bounds: 1640, 655, 57, 75
+	offsets: 25, 14, 128, 128
+strike_04_0002
+	bounds: 269, 188, 56, 84
+	offsets: 25, 15, 128, 128
+strike_04_0003
+	bounds: 148, 1369, 57, 91
+	offsets: 24, 15, 128, 128
+strike_04_0004
+	bounds: 603, 1477, 58, 84
+	offsets: 23, 16, 128, 128
+strike_04_0005
+	bounds: 1362, 362, 58, 73
+	offsets: 23, 17, 128, 128
+strike_04_0006
+	bounds: 79, 1744, 60, 69
+	offsets: 22, 16, 128, 128
+strike_04_0007
+	bounds: 1831, 655, 60, 72
+	offsets: 22, 13, 128, 128
+strike_04_0008
+	bounds: 1645, 732, 61, 75
+	offsets: 22, 10, 128, 128
+strike_04_0009
+	bounds: 71, 1540, 56, 100
+	offsets: 25, 14, 128, 128
+strike_04_0010
+	bounds: 1429, 40, 58, 78
+	offsets: 24, 13, 128, 128
+strike_04_0011
+	bounds: 1349, 200, 62, 78
+	offsets: 23, 14, 128, 128
+strike_04_0012
+	bounds: 1495, 1478, 62, 78
+	offsets: 23, 14, 128, 128
+strike_04_0013
+	bounds: 1902, 701, 63, 78
+	offsets: 23, 14, 128, 128
+strike_04_0014
+	bounds: 1838, 809, 63, 78
+	offsets: 23, 14, 128, 128
+strike_04_0015
+	bounds: 1035, 105, 62, 79
+	offsets: 23, 13, 128, 128
+strike_04_0016
+	bounds: 1348, 116, 62, 78
+	offsets: 23, 13, 128, 128
+strike_04_0017
+	bounds: 1791, 1013, 60, 78
+	offsets: 24, 13, 128, 128
+strike_04_0018
+	bounds: 1412, 120, 60, 78
+	offsets: 24, 13, 128, 128
+strike_04_0019
+	bounds: 148, 1197, 58, 77
+	offsets: 25, 13, 128, 128
+strike_04_0020
+	bounds: 1406, 283, 58, 77
+	offsets: 25, 13, 128, 128
+strike_04_0021
+	bounds: 1032, 344, 58, 77
+	offsets: 25, 13, 128, 128
+strike_05_0000
+	bounds: 568, 722, 80, 73
+	offsets: 25, 16, 128, 128
+strike_05_0001
+	bounds: 649, 255, 83, 73
+	offsets: 25, 16, 128, 128
+strike_05_0002
+	bounds: 1641, 1501, 77, 73
+	offsets: 26, 16, 128, 128
+strike_05_0003
+	bounds: 1426, 1085, 69, 74
+	offsets: 25, 16, 128, 128
+strike_05_0004
+	bounds: 1121, 1315, 71, 79
+	offsets: 24, 16, 128, 128
+strike_05_0005
+	bounds: 398, 1814, 90, 73
+	offsets: 6, 16, 128, 128
+strike_05_0006
+	bounds: 183, 1808, 96, 73
+	offsets: 0, 16, 128, 128
+strike_05_0007
+	bounds: 1738, 1892, 96, 73
+	offsets: 0, 16, 128, 128
+strike_05_0008
+	bounds: 1639, 1893, 97, 73
+	offsets: 0, 16, 128, 128
+strike_05_0009
+	bounds: 184, 337, 67, 84
+	offsets: 26, 16, 128, 128
+strike_05_0010
+	bounds: 581, 1813, 89, 73
+	offsets: 25, 16, 128, 128
+strike_05_0011
+	bounds: 1512, 894, 68, 73
+	offsets: 22, 16, 128, 128
+strike_05_0012
+	bounds: 1238, 839, 68, 73
+	offsets: 22, 16, 128, 128
+strike_05_0013
+	bounds: 208, 1216, 68, 74
+	offsets: 22, 15, 128, 128
+strike_05_0014
+	bounds: 1581, 810, 67, 74
+	offsets: 23, 15, 128, 128
+strike_05_0015
+	bounds: 1512, 817, 67, 75
+	offsets: 23, 14, 128, 128
+strike_05_0016
+	bounds: 1772, 936, 65, 75
+	offsets: 25, 14, 128, 128
+strike_05_0017
+	bounds: 1927, 1018, 65, 75
+	offsets: 26, 14, 128, 128
+strike_05_0018
+	bounds: 1243, 601, 65, 74
+	offsets: 26, 15, 128, 128
+strike_05_0019
+	bounds: 1853, 969, 68, 74
+	offsets: 25, 15, 128, 128
+strike_05_0020
+	bounds: 1270, 1250, 73, 73
+	offsets: 25, 16, 128, 128
+strike_05_0021
+	bounds: 1881, 1200, 77, 73
+	offsets: 25, 16, 128, 128
+strike_06_0000
+	bounds: 1372, 594, 62, 81
 	offsets: 29, 8, 128, 128
 strike_06_0001
-	bounds: 855, 1730, 54, 80
+	bounds: 816, 238, 62, 80
 	offsets: 29, 10, 128, 128
 strike_06_0002
-	bounds: 541, 570, 55, 74
-	offsets: 28, 16, 128, 128
+	bounds: 1837, 729, 63, 78
+	offsets: 28, 12, 128, 128
 strike_06_0003
-	bounds: 1277, 1051, 62, 72
-	offsets: 21, 19, 128, 128
+	bounds: 880, 570, 70, 79
+	offsets: 21, 12, 128, 128
 strike_06_0004
-	bounds: 75, 1326, 64, 85
-	offsets: 19, 19, 128, 128
+	bounds: 131, 1462, 72, 92
+	offsets: 19, 12, 128, 128
 strike_06_0005
-	bounds: 2, 1387, 64, 91
-	offsets: 19, 19, 128, 128
+	bounds: 2, 1333, 72, 97
+	offsets: 19, 13, 128, 128
 strike_06_0006
-	bounds: 71, 1783, 62, 86
-	offsets: 21, 19, 128, 128
+	bounds: 76, 1350, 70, 92
+	offsets: 21, 13, 128, 128
 strike_06_0007
-	bounds: 269, 1643, 61, 83
-	offsets: 22, 19, 128, 128
+	bounds: 188, 1559, 69, 89
+	offsets: 22, 13, 128, 128
 strike_06_0008
-	bounds: 797, 1255, 61, 79
-	offsets: 22, 19, 128, 128
+	bounds: 363, 1389, 69, 85
+	offsets: 22, 13, 128, 128
 strike_06_0009
-	bounds: 1732, 1283, 63, 77
-	offsets: 20, 19, 128, 128
+	bounds: 327, 204, 71, 84
+	offsets: 20, 12, 128, 128
 strike_06_0010
-	bounds: 362, 787, 54, 80
+	bounds: 865, 2, 62, 80
 	offsets: 29, 7, 128, 128
 strike_06_0011
-	bounds: 1157, 897, 54, 75
+	bounds: 1176, 362, 62, 75
 	offsets: 29, 10, 128, 128
 strike_06_0012
-	bounds: 543, 418, 54, 74
+	bounds: 1092, 344, 62, 74
 	offsets: 29, 11, 128, 128
 strike_06_0013
-	bounds: 648, 123, 54, 72
+	bounds: 1311, 441, 62, 72
 	offsets: 29, 13, 128, 128
 strike_06_0014
-	bounds: 1633, 1728, 54, 72
+	bounds: 723, 1649, 62, 72
 	offsets: 29, 13, 128, 128
 strike_06_0015
-	bounds: 594, 43, 54, 73
+	bounds: 1095, 186, 62, 73
 	offsets: 29, 13, 128, 128
 strike_06_0016
-	bounds: 1584, 877, 54, 73
+	bounds: 1140, 1240, 62, 73
 	offsets: 29, 13, 128, 128
 strike_06_0017
-	bounds: 532, 184, 54, 75
+	bounds: 1581, 733, 62, 75
 	offsets: 29, 12, 128, 128
 strike_06_0018
-	bounds: 413, 335, 54, 76
+	bounds: 1375, 437, 62, 76
 	offsets: 29, 11, 128, 128
 strike_06_0019
-	bounds: 1267, 1661, 54, 78
+	bounds: 1448, 824, 62, 78
 	offsets: 29, 10, 128, 128
 strike_06_0020
-	bounds: 472, 788, 54, 79
+	bounds: 1371, 677, 62, 79
 	offsets: 29, 9, 128, 128
 strike_06_0021
-	bounds: 300, 1023, 54, 81
+	bounds: 1448, 904, 62, 81
 	offsets: 29, 8, 128, 128
+strike_07_0000
+	bounds: 1161, 918, 75, 77
+	offsets: 13, 12, 128, 128
 strike_07_0001
-	bounds: 656, 1194, 70, 73
-	offsets: 5, 16, 128, 128
+	bounds: 483, 256, 83, 77
+	offsets: 5, 12, 128, 128
 strike_07_0002
-	bounds: 231, 646, 74, 73
-	offsets: 3, 16, 128, 128
+	bounds: 215, 1728, 85, 78
+	offsets: 3, 11, 128, 128
 strike_07_0003
-	bounds: 2, 684, 67, 87
-	offsets: 12, 16, 128, 128
+	bounds: 2, 560, 76, 92
+	offsets: 12, 11, 128, 128
 strike_07_0004
-	bounds: 2, 500, 58, 92
-	offsets: 22, 16, 128, 128
+	bounds: 2, 939, 66, 98
+	offsets: 22, 10, 128, 128
 strike_07_0005
-	bounds: 2, 594, 63, 88
-	offsets: 30, 16, 128, 128
+	bounds: 2, 843, 72, 94
+	offsets: 21, 10, 128, 128
 strike_07_0006
-	bounds: 76, 919, 73, 80
-	offsets: 35, 16, 128, 128
+	bounds: 775, 1878, 88, 86
+	offsets: 20, 10, 128, 128
 strike_07_0007
-	bounds: 76, 1001, 73, 80
-	offsets: 38, 16, 128, 128
+	bounds: 2, 382, 91, 86
+	offsets: 20, 10, 128, 128
 strike_07_0008
-	bounds: 464, 1733, 76, 78
-	offsets: 38, 16, 128, 128
+	bounds: 2, 209, 94, 84
+	offsets: 20, 10, 128, 128
 strike_07_0009
-	bounds: 2, 1866, 66, 94
-	offsets: 11, 16, 128, 128
+	bounds: 2, 1642, 77, 99
+	offsets: 11, 11, 128, 128
 strike_07_0010
-	bounds: 1917, 1668, 71, 73
-	offsets: 0, 16, 128, 128
+	bounds: 408, 1889, 92, 78
+	offsets: 0, 11, 128, 128
 strike_07_0011
-	bounds: 586, 343, 55, 73
-	offsets: 21, 16, 128, 128
+	bounds: 348, 2, 74, 80
+	offsets: 21, 9, 128, 128
 strike_07_0012
-	bounds: 1221, 822, 56, 73
-	offsets: 21, 16, 128, 128
+	bounds: 272, 2, 74, 80
+	offsets: 21, 9, 128, 128
 strike_07_0013
-	bounds: 588, 193, 57, 73
-	offsets: 21, 16, 128, 128
+	bounds: 424, 2, 74, 80
+	offsets: 21, 9, 128, 128
 strike_07_0014
-	bounds: 599, 421, 57, 73
-	offsets: 22, 16, 128, 128
+	bounds: 1422, 1397, 72, 79
+	offsets: 22, 10, 128, 128
 strike_07_0015
-	bounds: 665, 1892, 57, 73
-	offsets: 22, 16, 128, 128
+	bounds: 735, 319, 72, 79
+	offsets: 22, 10, 128, 128
 strike_07_0016
-	bounds: 938, 645, 57, 73
-	offsets: 23, 16, 128, 128
+	bounds: 962, 105, 71, 79
+	offsets: 23, 10, 128, 128
 strike_07_0017
-	bounds: 1698, 826, 56, 73
-	offsets: 24, 16, 128, 128
+	bounds: 1116, 1480, 69, 79
+	offsets: 24, 10, 128, 128
 strike_07_0018
-	bounds: 645, 271, 55, 73
-	offsets: 25, 16, 128, 128
+	bounds: 1172, 522, 68, 78
+	offsets: 24, 11, 128, 128
 strike_07_0019
-	bounds: 883, 644, 53, 73
-	offsets: 26, 16, 128, 128
+	bounds: 1242, 441, 67, 78
+	offsets: 24, 11, 128, 128
 strike_07_0020
-	bounds: 1953, 1113, 54, 73
-	offsets: 24, 16, 128, 128
+	bounds: 1206, 1155, 67, 78
+	offsets: 23, 11, 128, 128
 strike_07_0021
-	bounds: 704, 644, 58, 73
-	offsets: 18, 16, 128, 128
+	bounds: 1165, 839, 71, 77
+	offsets: 18, 12, 128, 128
 walk_00_0000
-	bounds: 1765, 1971, 79, 75
-	offsets: 25, 16, 128, 128
+	bounds: 1293, 1726, 88, 75
+	offsets: 16, 16, 128, 128
 walk_00_0001
-	bounds: 1358, 1969, 80, 77
-	offsets: 25, 14, 128, 128
+	bounds: 1535, 1815, 92, 77
+	offsets: 12, 14, 128, 128
 walk_00_0002
-	bounds: 464, 1653, 75, 78
-	offsets: 25, 13, 128, 128
+	bounds: 1936, 1968, 95, 78
+	offsets: 5, 13, 128, 128
 walk_00_0003
-	bounds: 2, 773, 73, 83
-	offsets: 23, 13, 128, 128
+	bounds: 1629, 1808, 92, 83
+	offsets: 4, 13, 128, 128
 walk_00_0004
-	bounds: 2, 1297, 71, 88
-	offsets: 22, 12, 128, 128
+	bounds: 2, 470, 90, 88
+	offsets: 3, 12, 128, 128
 walk_00_0005
-	bounds: 2, 1031, 72, 86
-	offsets: 22, 12, 128, 128
+	bounds: 2, 35, 90, 86
+	offsets: 4, 12, 128, 128
 walk_00_0006
-	bounds: 76, 1083, 74, 80
-	offsets: 25, 12, 128, 128
+	bounds: 205, 1883, 94, 80
+	offsets: 5, 12, 128, 128
 walk_00_0007
-	bounds: 185, 1888, 77, 78
-	offsets: 25, 13, 128, 128
+	bounds: 1440, 1884, 93, 78
+	offsets: 9, 13, 128, 128
 walk_00_0008
-	bounds: 1602, 1970, 79, 76
-	offsets: 25, 15, 128, 128
+	bounds: 594, 1888, 89, 76
+	offsets: 15, 15, 128, 128
 walk_00_0009
-	bounds: 190, 1575, 77, 73
-	offsets: 25, 18, 128, 128
+	bounds: 563, 335, 84, 73
+	offsets: 18, 18, 128, 128
 walk_00_0010
-	bounds: 1917, 1743, 71, 75
-	offsets: 25, 16, 128, 128
+	bounds: 1594, 964, 73, 75
+	offsets: 23, 16, 128, 128
 walk_00_0011
-	bounds: 1510, 1181, 62, 76
+	bounds: 1099, 106, 62, 78
 	offsets: 25, 15, 128, 128
 walk_00_0012
-	bounds: 1931, 1262, 63, 76
+	bounds: 800, 2, 63, 80
 	offsets: 25, 15, 128, 128
 walk_00_0013
-	bounds: 1201, 1661, 64, 78
+	bounds: 167, 595, 64, 84
 	offsets: 25, 13, 128, 128
 walk_00_0014
-	bounds: 306, 490, 61, 76
+	bounds: 1709, 774, 61, 78
 	offsets: 25, 15, 128, 128
 walk_00_0015
-	bounds: 656, 1269, 70, 75
-	offsets: 25, 16, 128, 128
+	bounds: 1853, 1045, 72, 75
+	offsets: 23, 16, 128, 128
 walk_01_0000
-	bounds: 1557, 1259, 57, 82
-	offsets: 26, 9, 128, 128
+	bounds: 800, 405, 76, 82
+	offsets: 25, 9, 128, 128
 walk_01_0001
-	bounds: 984, 1289, 62, 79
-	offsets: 26, 12, 128, 128
+	bounds: 1720, 1570, 72, 79
+	offsets: 25, 12, 128, 128
 walk_01_0002
-	bounds: 305, 568, 62, 76
-	offsets: 26, 15, 128, 128
+	bounds: 872, 805, 67, 76
+	offsets: 25, 15, 128, 128
 walk_01_0003
-	bounds: 1149, 974, 62, 75
-	offsets: 26, 16, 128, 128
+	bounds: 1906, 860, 64, 77
+	offsets: 25, 16, 128, 128
 walk_01_0004
-	bounds: 1694, 1131, 63, 75
-	offsets: 26, 16, 128, 128
+	bounds: 1140, 1159, 64, 79
+	offsets: 25, 16, 128, 128
 walk_01_0005
-	bounds: 404, 1568, 62, 75
-	offsets: 26, 16, 128, 128
+	bounds: 650, 642, 64, 77
+	offsets: 25, 16, 128, 128
 walk_01_0006
-	bounds: 1931, 1340, 63, 76
-	offsets: 26, 15, 128, 128
+	bounds: 1582, 886, 67, 76
+	offsets: 25, 15, 128, 128
 walk_01_0007
-	bounds: 1104, 1203, 64, 77
-	offsets: 26, 14, 128, 128
+	bounds: 1426, 1240, 71, 77
+	offsets: 25, 14, 128, 128
 walk_01_0008
-	bounds: 797, 1336, 61, 81
-	offsets: 26, 10, 128, 128
+	bounds: 1194, 1397, 74, 81
+	offsets: 25, 10, 128, 128
 walk_01_0009
-	bounds: 356, 243, 58, 83
-	offsets: 26, 8, 128, 128
+	bounds: 313, 460, 81, 83
+	offsets: 25, 8, 128, 128
 walk_01_0010
-	bounds: 71, 1699, 62, 82
-	offsets: 26, 9, 128, 128
+	bounds: 367, 1219, 84, 82
+	offsets: 25, 9, 128, 128
 walk_01_0011
-	bounds: 293, 2, 65, 80
+	bounds: 394, 805, 84, 80
 	offsets: 25, 11, 128, 128
 walk_01_0012
-	bounds: 151, 952, 68, 78
+	bounds: 393, 887, 86, 78
 	offsets: 23, 13, 128, 128
 walk_01_0013
-	bounds: 332, 1649, 70, 79
+	bounds: 608, 1053, 86, 79
 	offsets: 21, 12, 128, 128
 walk_01_0014
-	bounds: 911, 1740, 65, 79
+	bounds: 394, 724, 84, 79
 	offsets: 25, 12, 128, 128
 walk_01_0015
-	bounds: 269, 1474, 61, 82
-	offsets: 26, 9, 128, 128
+	bounds: 310, 545, 83, 82
+	offsets: 25, 9, 128, 128
 walk_02_0000
-	bounds: 1244, 1423, 66, 75
-	offsets: 14, 16, 128, 128
+	bounds: 477, 1728, 86, 84
+	offsets: 14, 7, 128, 128
 walk_02_0001
-	bounds: 1521, 1969, 79, 77
-	offsets: 7, 14, 128, 128
+	bounds: 1238, 1965, 99, 81
+	offsets: 7, 10, 128, 128
 walk_02_0002
-	bounds: 252, 1968, 83, 78
+	bounds: 933, 1968, 101, 78
 	offsets: 7, 13, 128, 128
 walk_02_0003
-	bounds: 337, 1968, 82, 78
+	bounds: 1540, 1968, 98, 78
 	offsets: 9, 13, 128, 128
 walk_02_0004
-	bounds: 1440, 1967, 79, 79
+	bounds: 1924, 1887, 92, 79
 	offsets: 12, 12, 128, 128
 walk_02_0005
-	bounds: 591, 1967, 81, 79
+	bounds: 1740, 1967, 96, 79
 	offsets: 10, 12, 128, 128
 walk_02_0006
-	bounds: 83, 1967, 82, 79
+	bounds: 1036, 1967, 99, 79
 	offsets: 8, 12, 128, 128
 walk_02_0007
-	bounds: 674, 1968, 80, 78
-	offsets: 8, 13, 128, 128
+	bounds: 1339, 1966, 99, 80
+	offsets: 8, 11, 128, 128
 walk_02_0008
-	bounds: 231, 721, 73, 76
-	offsets: 11, 15, 128, 128
+	bounds: 2, 123, 92, 84
+	offsets: 11, 7, 128, 128
 walk_02_0009
-	bounds: 822, 719, 61, 73
-	offsets: 18, 18, 128, 128
+	bounds: 349, 1476, 79, 85
+	offsets: 18, 6, 128, 128
 walk_02_0010
-	bounds: 369, 413, 56, 75
-	offsets: 26, 16, 128, 128
+	bounds: 163, 767, 68, 84
+	offsets: 26, 7, 128, 128
 walk_02_0011
-	bounds: 424, 1246, 60, 75
-	offsets: 26, 16, 128, 128
+	bounds: 1110, 420, 64, 81
+	offsets: 26, 10, 128, 128
 walk_02_0012
-	bounds: 1085, 974, 62, 75
-	offsets: 26, 16, 128, 128
+	bounds: 392, 1057, 62, 82
+	offsets: 26, 9, 128, 128
 walk_02_0013
-	bounds: 1629, 1185, 63, 75
-	offsets: 26, 16, 128, 128
+	bounds: 846, 1223, 63, 83
+	offsets: 26, 8, 128, 128
 walk_02_0014
-	bounds: 1627, 1651, 60, 75
-	offsets: 26, 16, 128, 128
+	bounds: 1300, 1007, 63, 81
+	offsets: 26, 10, 128, 128
 walk_02_0015
-	bounds: 427, 413, 56, 75
-	offsets: 26, 16, 128, 128
+	bounds: 168, 509, 68, 84
+	offsets: 26, 7, 128, 128
 walk_03_0000
-	bounds: 485, 415, 56, 75
-	offsets: 26, 16, 128, 128
+	bounds: 937, 968, 68, 83
+	offsets: 14, 8, 128, 128
 walk_03_0001
-	bounds: 1582, 801, 56, 74
-	offsets: 24, 17, 128, 128
+	bounds: 158, 939, 61, 84
+	offsets: 19, 7, 128, 128
 walk_03_0002
-	bounds: 331, 1730, 68, 80
-	offsets: 18, 16, 128, 128
+	bounds: 208, 1292, 68, 86
+	offsets: 18, 10, 128, 128
 walk_03_0003
-	bounds: 2, 858, 72, 84
-	offsets: 16, 16, 128, 128
+	bounds: 81, 1650, 71, 92
+	offsets: 17, 8, 128, 128
 walk_03_0004
-	bounds: 2, 1208, 72, 87
-	offsets: 17, 16, 128, 128
+	bounds: 2, 1235, 72, 96
+	offsets: 17, 7, 128, 128
 walk_03_0005
-	bounds: 2, 944, 72, 85
-	offsets: 16, 16, 128, 128
+	bounds: 2, 748, 72, 93
+	offsets: 16, 8, 128, 128
 walk_03_0006
-	bounds: 118, 1538, 69, 80
-	offsets: 17, 16, 128, 128
+	bounds: 207, 1380, 69, 86
+	offsets: 17, 10, 128, 128
 walk_03_0007
-	bounds: 304, 413, 63, 75
-	offsets: 20, 16, 128, 128
+	bounds: 608, 1219, 63, 83
+	offsets: 20, 8, 128, 128
 walk_03_0008
-	bounds: 588, 268, 55, 73
-	offsets: 26, 18, 128, 128
+	bounds: 865, 1880, 66, 84
+	offsets: 15, 7, 128, 128
 walk_03_0009
-	bounds: 1764, 1516, 59, 76
-	offsets: 26, 15, 128, 128
+	bounds: 292, 1141, 73, 82
+	offsets: 12, 9, 128, 128
 walk_03_0010
-	bounds: 541, 1653, 62, 78
-	offsets: 26, 13, 128, 128
+	bounds: 566, 488, 81, 79
+	offsets: 7, 12, 128, 128
 walk_03_0011
-	bounds: 729, 1732, 65, 79
-	offsets: 25, 12, 128, 128
+	bounds: 685, 1885, 88, 79
+	offsets: 2, 12, 128, 128
 walk_03_0012
-	bounds: 334, 1569, 68, 78
-	offsets: 23, 13, 128, 128
+	bounds: 502, 1889, 90, 78
+	offsets: 1, 13, 128, 128
 walk_03_0013
-	bounds: 77, 838, 71, 79
-	offsets: 21, 12, 128, 128
+	bounds: 1885, 1806, 91, 79
+	offsets: 1, 12, 128, 128
 walk_03_0014
-	bounds: 1201, 1741, 65, 78
-	offsets: 25, 13, 128, 128
+	bounds: 653, 1728, 87, 78
+	offsets: 3, 13, 128, 128
 walk_03_0015
-	bounds: 860, 1255, 61, 78
-	offsets: 26, 13, 128, 128
+	bounds: 568, 255, 79, 78
+	offsets: 8, 13, 128, 128
 walk_04_0000
-	bounds: 584, 722, 54, 70
-	offsets: 29, 19, 128, 128
+	bounds: 1650, 809, 57, 75
+	offsets: 26, 14, 128, 128
 walk_04_0001
-	bounds: 543, 494, 54, 74
-	offsets: 29, 15, 128, 128
+	bounds: 1368, 36, 59, 78
+	offsets: 24, 11, 128, 128
 walk_04_0002
-	bounds: 61, 1589, 53, 87
-	offsets: 29, 12, 128, 128
+	bounds: 154, 1650, 59, 87
+	offsets: 23, 12, 128, 128
 walk_04_0003
-	bounds: 2, 26, 52, 91
-	offsets: 29, 12, 128, 128
+	bounds: 148, 1276, 58, 91
+	offsets: 23, 12, 128, 128
 walk_04_0004
-	bounds: 2, 307, 52, 94
-	offsets: 29, 12, 128, 128
+	bounds: 72, 1444, 57, 94
+	offsets: 24, 12, 128, 128
 walk_04_0005
-	bounds: 2, 119, 52, 92
-	offsets: 29, 12, 128, 128
+	bounds: 129, 1556, 57, 92
+	offsets: 24, 12, 128, 128
 walk_04_0006
-	bounds: 135, 1786, 53, 88
-	offsets: 29, 12, 128, 128
+	bounds: 608, 1387, 58, 88
+	offsets: 24, 12, 128, 128
 walk_04_0007
-	bounds: 369, 568, 54, 76
-	offsets: 29, 14, 128, 128
+	bounds: 636, 887, 58, 79
+	offsets: 25, 11, 128, 128
 walk_04_0008
-	bounds: 1574, 1102, 55, 72
-	offsets: 29, 17, 128, 128
+	bounds: 1111, 503, 59, 77
+	offsets: 25, 12, 128, 128
 walk_04_0009
-	bounds: 766, 570, 55, 72
-	offsets: 29, 17, 128, 128
+	bounds: 1033, 186, 60, 73
+	offsets: 24, 16, 128, 128
 walk_04_0010
-	bounds: 1342, 745, 54, 75
-	offsets: 29, 14, 128, 128
+	bounds: 1708, 697, 60, 75
+	offsets: 23, 14, 128, 128
 walk_04_0011
-	bounds: 864, 794, 55, 77
-	offsets: 29, 12, 128, 128
+	bounds: 1311, 515, 62, 77
+	offsets: 22, 12, 128, 128
 walk_04_0012
-	bounds: 695, 873, 55, 77
-	offsets: 29, 12, 128, 128
+	bounds: 1772, 774, 63, 79
+	offsets: 21, 12, 128, 128
 walk_04_0013
-	bounds: 1048, 1126, 54, 77
-	offsets: 29, 12, 128, 128
+	bounds: 591, 1563, 63, 84
+	offsets: 20, 12, 128, 128
 walk_04_0014
-	bounds: 808, 794, 54, 77
-	offsets: 29, 12, 128, 128
+	bounds: 1298, 362, 62, 77
+	offsets: 21, 12, 128, 128
 walk_04_0015
-	bounds: 366, 646, 53, 75
-	offsets: 29, 14, 128, 128
+	bounds: 1770, 697, 59, 75
+	offsets: 23, 14, 128, 128
 walk_05_0000
-	bounds: 1056, 1749, 76, 73
-	offsets: 29, 16, 128, 128
+	bounds: 1560, 1426, 80, 73
+	offsets: 25, 16, 128, 128
 walk_05_0001
-	bounds: 1276, 1973, 80, 73
-	offsets: 29, 16, 128, 128
+	bounds: 490, 1814, 89, 73
+	offsets: 20, 16, 128, 128
 walk_05_0002
-	bounds: 1347, 1821, 76, 72
-	offsets: 29, 17, 128, 128
+	bounds: 1540, 1894, 97, 72
+	offsets: 8, 17, 128, 128
 walk_05_0003
-	bounds: 1132, 1584, 74, 71
-	offsets: 28, 18, 128, 128
+	bounds: 84, 1815, 97, 71
+	offsets: 5, 18, 128, 128
 walk_05_0004
-	bounds: 1131, 1512, 72, 70
-	offsets: 26, 19, 128, 128
+	bounds: 1029, 1893, 94, 72
+	offsets: 4, 19, 128, 128
 walk_05_0005
-	bounds: 1055, 1526, 74, 71
-	offsets: 27, 18, 128, 128
+	bounds: 301, 1895, 96, 71
+	offsets: 5, 18, 128, 128
 walk_05_0006
-	bounds: 979, 1900, 76, 72
-	offsets: 29, 17, 128, 128
+	bounds: 93, 1888, 97, 72
+	offsets: 8, 17, 128, 128
 walk_05_0007
-	bounds: 151, 877, 79, 73
-	offsets: 29, 16, 128, 128
+	bounds: 933, 1893, 94, 73
+	offsets: 14, 16, 128, 128
 walk_05_0008
-	bounds: 144, 416, 78, 73
-	offsets: 29, 16, 128, 128
+	bounds: 649, 330, 84, 73
+	offsets: 23, 16, 128, 128
 walk_05_0009
-	bounds: 232, 877, 72, 73
-	offsets: 29, 16, 128, 128
+	bounds: 650, 567, 73, 73
+	offsets: 28, 16, 128, 128
 walk_05_0010
-	bounds: 1021, 975, 62, 74
+	bounds: 1519, 969, 73, 74
 	offsets: 29, 15, 128, 128
 walk_05_0011
-	bounds: 1098, 820, 57, 76
+	bounds: 1642, 1423, 76, 76
 	offsets: 29, 13, 128, 128
 walk_05_0012
-	bounds: 1213, 973, 62, 76
+	bounds: 716, 731, 78, 78
 	offsets: 27, 13, 128, 128
 walk_05_0013
-	bounds: 1697, 1516, 65, 76
+	bounds: 399, 307, 79, 81
 	offsets: 25, 13, 128, 128
 walk_05_0014
-	bounds: 546, 1575, 59, 76
+	bounds: 853, 1800, 78, 76
 	offsets: 28, 13, 128, 128
 walk_05_0015
-	bounds: 1094, 898, 61, 74
+	bounds: 880, 159, 74, 74
 	offsets: 29, 15, 128, 128
 walk_06_0000
-	bounds: 362, 869, 54, 81
+	bounds: 1242, 30, 62, 81
 	offsets: 29, 8, 128, 128
 walk_06_0001
-	bounds: 1048, 1289, 54, 79
+	bounds: 1772, 855, 64, 79
 	offsets: 29, 10, 128, 128
 walk_06_0002
-	bounds: 865, 1493, 54, 77
+	bounds: 874, 726, 65, 77
 	offsets: 29, 12, 128, 128
 walk_06_0003
-	bounds: 808, 873, 53, 77
+	bounds: 1923, 939, 65, 77
 	offsets: 29, 12, 128, 128
 walk_06_0004
-	bounds: 582, 794, 53, 77
+	bounds: 945, 714, 64, 82
 	offsets: 29, 12, 128, 128
 walk_06_0005
-	bounds: 1340, 894, 53, 77
+	bounds: 1839, 889, 65, 78
 	offsets: 29, 12, 128, 128
 walk_06_0006
-	bounds: 752, 873, 54, 77
+	bounds: 1239, 760, 66, 77
 	offsets: 29, 12, 128, 128
 walk_06_0007
-	bounds: 1268, 1741, 55, 78
+	bounds: 1242, 521, 66, 78
 	offsets: 29, 11, 128, 128
 walk_06_0008
-	bounds: 360, 2, 55, 80
+	bounds: 541, 1053, 65, 80
 	offsets: 29, 9, 128, 128
 walk_06_0009
-	bounds: 1991, 1887, 55, 81
+	bounds: 1176, 439, 64, 81
 	offsets: 29, 8, 128, 128
 walk_06_0010
-	bounds: 797, 1812, 54, 78
-	offsets: 29, 11, 128, 128
+	bounds: 650, 721, 64, 79
+	offsets: 29, 10, 128, 128
 walk_06_0011
-	bounds: 752, 794, 54, 77
+	bounds: 1903, 781, 63, 77
 	offsets: 29, 12, 128, 128
 walk_06_0012
-	bounds: 581, 873, 53, 77
+	bounds: 1235, 997, 63, 77
 	offsets: 29, 12, 128, 128
 walk_06_0013
-	bounds: 1040, 873, 52, 77
+	bounds: 1375, 515, 62, 77
 	offsets: 29, 12, 128, 128
 walk_06_0014
-	bounds: 697, 794, 53, 77
+	bounds: 1307, 677, 62, 77
 	offsets: 29, 12, 128, 128
 walk_06_0015
-	bounds: 853, 1812, 53, 78
-	offsets: 29, 11, 128, 128
+	bounds: 1496, 1397, 62, 79
+	offsets: 29, 10, 128, 128
 walk_07_0000
-	bounds: 1469, 952, 61, 73
-	offsets: 13, 16, 128, 128
+	bounds: 1417, 1478, 76, 77
+	offsets: 12, 12, 128, 128
 walk_07_0001
-	bounds: 746, 1572, 75, 73
-	offsets: 3, 16, 128, 128
+	bounds: 301, 1813, 95, 80
+	offsets: 3, 9, 128, 128
 walk_07_0002
-	bounds: 1019, 1974, 85, 72
-	offsets: 1, 17, 128, 128
+	bounds: 622, 1966, 103, 80
+	offsets: 1, 9, 128, 128
 walk_07_0003
-	bounds: 843, 1975, 86, 71
-	offsets: 3, 18, 128, 128
+	bounds: 727, 1966, 102, 80
+	offsets: 3, 9, 128, 128
 walk_07_0004
-	bounds: 756, 1973, 85, 73
-	offsets: 5, 19, 128, 128
+	bounds: 1440, 1964, 98, 82
+	offsets: 5, 10, 128, 128
 walk_07_0005
-	bounds: 931, 1975, 86, 71
-	offsets: 3, 18, 128, 128
+	bounds: 831, 1966, 100, 80
+	offsets: 4, 9, 128, 128
 walk_07_0006
-	bounds: 1106, 1974, 85, 72
-	offsets: 1, 17, 128, 128
+	bounds: 196, 1965, 103, 81
+	offsets: 1, 8, 128, 128
 walk_07_0007
-	bounds: 583, 1892, 80, 73
-	offsets: 1, 16, 128, 128
+	bounds: 1137, 1965, 99, 81
+	offsets: 2, 8, 128, 128
 walk_07_0008
-	bounds: 1108, 1437, 66, 73
-	offsets: 8, 16, 128, 128
+	bounds: 696, 1052, 85, 79
+	offsets: 8, 10, 128, 128
 walk_07_0009
-	bounds: 764, 644, 58, 73
-	offsets: 19, 16, 128, 128
+	bounds: 1275, 1169, 68, 79
+	offsets: 19, 10, 128, 128
 walk_07_0010
-	bounds: 598, 571, 52, 73
-	offsets: 30, 16, 128, 128
+	bounds: 572, 2, 68, 80
+	offsets: 14, 9, 128, 128
 walk_07_0011
-	bounds: 864, 1419, 56, 72
-	offsets: 30, 17, 128, 128
+	bounds: 187, 170, 80, 79
+	offsets: 6, 10, 128, 128
 walk_07_0012
-	bounds: 1456, 729, 61, 71
-	offsets: 28, 18, 128, 128
+	bounds: 481, 887, 85, 78
+	offsets: 4, 11, 128, 128
 walk_07_0013
-	bounds: 1170, 1204, 64, 70
-	offsets: 26, 19, 128, 128
+	bounds: 1618, 1729, 87, 77
+	offsets: 3, 12, 128, 128
 walk_07_0014
-	bounds: 645, 646, 57, 71
-	offsets: 30, 18, 128, 128
+	bounds: 480, 335, 81, 79
+	offsets: 6, 10, 128, 128
 walk_07_0015
-	bounds: 650, 49, 52, 72
-	offsets: 30, 17, 128, 128
+	bounds: 1346, 1477, 69, 79
+	offsets: 13, 10, 128, 128

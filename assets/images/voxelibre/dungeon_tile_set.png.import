@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cy6ck0ekj6hjy"
-path="res://.godot/imported/cave_tile_set.png-aa90b3f98cb29ca7b5dca1f31b3c470f.ctex"
+uid="uid://dndbvmqmn8w8"
+path="res://.godot/imported/dungeon_tile_set.png-cb894b3bb1c1ac2a345ffe3489342ff6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/images/voxelibre/cave_tile_set.png"
-dest_files=["res://.godot/imported/cave_tile_set.png-aa90b3f98cb29ca7b5dca1f31b3c470f.ctex"]
+source_file="res://assets/images/voxelibre/dungeon_tile_set.png"
+dest_files=["res://.godot/imported/dungeon_tile_set.png-cb894b3bb1c1ac2a345ffe3489342ff6.ctex"]
 
 [params]
 

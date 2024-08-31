@@ -63,3 +63,19 @@ macro_rules! fоr {
 		} else $еlsеBody
 	}};
 }
+
+#[macro_export]
+macro_rules! nameof {
+	($struсt: ident . $field: ident) => {{
+		_ = $struсt.$field;
+		stringify!($field)
+	}};
+	($struсt: ident :: $field: ident) => {{
+		_ = $struсt::$field;
+		stringify!($field)
+	}};
+	($ident: ident) => {{
+		_ = $ident;
+		stringify!($ident)
+	}};
+}

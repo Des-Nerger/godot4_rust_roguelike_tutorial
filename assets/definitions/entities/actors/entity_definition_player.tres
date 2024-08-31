@@ -1,0 +1,8 @@
+[gd_resource type="EntityDefinition" load_steps=2 format=3 uid="uid://bbf4wx6k5j7d8"]
+
+[ext_resource type="SpriteFrames" uid="uid://ctxiseyjyfvwh" path="res://assets/images/voxelibre/voxelibre_character_1.sprite_frames.tres" id="1_lxrw8"]
+
+[resource]
+offset = Vector2(-64, -106)
+sprite_frames = ExtResource("1_lxrw8")
+autoplay = "stand_01"
