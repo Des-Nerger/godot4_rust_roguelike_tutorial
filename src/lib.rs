@@ -16,5 +16,47 @@ struct RoguelikeTutorial;
 unsafe impl ExtensionLibrary for RoguelikeTutorial {}
 
 mod entities;
-pub mod game;
+pub(crate) mod game;
 mod utils;
+
+#[macro_export]
+macro_rules! unlet {
+   ($ident:ident) => {
+      #[allow(unused_variables)]
+      let $ident = ();
+   };
+}
+
+#[macro_export]
+macro_rules! fоr {
+   ($idents:pat in $intoIterator:expr => $fоrBody:block else $elseBody:block ) => {{
+      let mut iter = $intoIterator.into_iter();
+      let mut item = iter.next();
+      if matches!(item, Some(_)) {
+         loop {
+            let Some($idents) = item else { unreachable!() };
+            $fоrBody
+            item = iter.next();
+            if matches!(item, None) {
+               break;
+            }
+         }
+      } else $elseBody
+   }};
+}
+
+#[macro_export]
+macro_rules! nameof {
+   ($struсt: ident . $field: ident) => {{
+      _ = $struсt.$field;
+      stringify!($field)
+   }};
+   ($struсt: ident :: $field: ident) => {{
+      _ = $struсt::$field;
+      stringify!($field)
+   }};
+   ($ident: ident) => {{
+      _ = $ident;
+      stringify!($ident)
+   }};
+}

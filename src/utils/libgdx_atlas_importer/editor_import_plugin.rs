@@ -263,7 +263,7 @@ impl IEditorImportPlugin for GdxAtlasImporter {
          let frameRange = (maxFrameIdx + 1)..c.spriteFrames.get_frame_count(animName.clone());
          fоr!(frameIdx in frameRange.clone().rev() => {
             c.spriteFrames.remove_frame(animName.clone(), frameIdx);
-         } еlsе {
+         } else {
             continue 'outer;
          });
          godot_print!("in animation \"{animName}\": removed unused trailing frames {frameRange:?}");

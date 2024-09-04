@@ -4,7 +4,7 @@ use {
 };
 
 #[derive(GodotClass)]
-#[class(tool, init, editor_plugin, base=EditorPlugin)]
+#[class(tool, init, base=EditorPlugin)]
 struct GdxAtlasPlugin {
    importPlugin: Option<Gd<GdxAtlasImporter>>,
    base: Base<<Self as GodotClass>::Base>,
