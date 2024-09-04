@@ -1,6 +1,6 @@
 max_width = 110
-hard_tabs = true
-tab_spaces = 2
+# hard_tabs = true
+tab_spaces = 3
 use_small_heuristics = "Max"
 edition = "2021"
 
